@@ -22,15 +22,15 @@
   --r:18px;--rs:12px
 }
 body{background:var(--bg);color:var(--tx);font-family:'Montserrat',-apple-system,sans-serif;min-height:100vh;padding-bottom:calc(env(safe-area-inset-bottom,0px)+80px);-webkit-font-smoothing:antialiased}
-.tab-bar{position:fixed;bottom:0;left:0;right:0;background:var(--sf);border-top:1px solid var(--bd);display:grid;grid-template-columns:1fr 1fr 1fr;z-index:100;padding-bottom:env(safe-area-inset-bottom,0px)}
+.tab-bar{position:fixed;bottom:0;left:0;right:0;background:var(--sf);border-top:1px solid var(--bd);display:grid;grid-template-columns:repeat(4,1fr);z-index:100;padding-bottom:env(safe-area-inset-bottom,0px)}
 .tb{padding:12px 8px 10px;display:flex;flex-direction:column;align-items:center;gap:3px;cursor:pointer;background:none;border:none;font-family:inherit;color:var(--mu);font-size:10px;font-weight:600;letter-spacing:0.04em;transition:color 0.2s}
 .tb .ti{font-size:20px}.tb.on{color:var(--tx)}
-.tb.on.tv .ti{color:var(--gr)}.tb.on.tu .ti{color:var(--or)}.tb.on.tc .ti{color:var(--bl)}
+.tb.on.tv .ti{color:var(--gr)}.tb.on.tu .ti{color:var(--or)}.tb.on.tc .ti{color:var(--bl)}.tb.on.to .ti{color:var(--pu)}
 .pg{display:none;animation:fi 0.2s ease}.pg.on{display:block}
 @keyframes fi{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:none}}
 header{padding:20px 20px 0;display:flex;align-items:center;gap:12px}
 .logo{width:40px;height:40px;border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:20px;flex-shrink:0}
-.lv{background:linear-gradient(135deg,#1E66FF,#0057D9)}.lu{background:linear-gradient(135deg,#f97316,#ea580c)}.lc{background:linear-gradient(135deg,#003A8C,#0057D9)}
+.lv{background:linear-gradient(135deg,#1E66FF,#0057D9)}.lu{background:linear-gradient(135deg,#f97316,#ea580c)}.lc{background:linear-gradient(135deg,#003A8C,#0057D9)}.lo{background:linear-gradient(135deg,#7c5cf0,#5b3fd0)}
 .ht .hn{font-size:17px;font-weight:800;letter-spacing:-0.3px}.ht .hs{font-size:12px;color:var(--mu)}
 .dbg{margin-left:auto;background:var(--sf);border:1px solid var(--bd);border-radius:100px;padding:4px 10px;font-size:11px;color:var(--mu);white-space:nowrap}
 .w{padding:20px;max-width:500px;margin:0 auto}
@@ -205,6 +205,31 @@ header{padding:20px 20px 0;display:flex;align-items:center;gap:12px}
 .bdg{display:inline-block;font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;padding:2px 8px;border-radius:100px}
 .bdg-g{background:var(--gr-bg);border:1px solid var(--gr-bd);color:var(--gr)}
 .bdg-o{background:var(--or-bg);border:1px solid var(--or-bd);color:var(--or)}
+/* OFERTA */
+.ohint{font-size:12px;color:var(--mu);line-height:1.5;background:var(--sf);border:1px solid var(--bd);border-radius:var(--r);padding:12px 14px;margin-bottom:14px}
+.ohint b{color:var(--tx);font-weight:700}
+.ofl{display:flex;flex-direction:column;gap:12px;margin-bottom:16px}
+.oflr{display:flex;flex-direction:column;gap:7px}
+.ofll{font-size:10px;font-weight:700;letter-spacing:0.06em;text-transform:uppercase;color:var(--mu)}
+.ochips{display:flex;gap:6px;flex-wrap:wrap}
+.ochip{background:var(--sf);border:1.5px solid var(--bd);border-radius:100px;padding:7px 13px;font-size:12px;font-weight:600;color:var(--mu);font-family:inherit;cursor:pointer;transition:all 0.15s}
+.ochip.on{border-color:var(--pu);background:var(--pu-bg);color:var(--pu)}
+.ocount{font-size:11px;color:var(--hi);margin-bottom:10px;font-weight:600}
+.ocd{background:var(--sf);border:1px solid var(--bd);border-radius:var(--r);padding:14px 16px;margin-bottom:10px}
+.ocdh{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:5px}
+.ocdn{font-size:14px;font-weight:700;line-height:1.3}
+.ocdt{font-size:11px;color:var(--hi);font-weight:500}
+.ocdb{font-size:13px;font-weight:800;padding:2px 9px;border-radius:100px;flex-shrink:0}
+.ocdb.mgr{background:var(--gr-bg);color:var(--gr)}.ocdb.myr{background:var(--ye-bg);color:var(--ye)}.ocdb.mrr{background:var(--re-bg);color:var(--re)}
+.ocdm{font-size:11px;color:var(--mu);margin-bottom:8px}
+.ocdr{display:flex;gap:14px;font-size:12px;color:var(--mu);margin-bottom:10px}
+.oof{background:var(--bg);border-radius:var(--rs);padding:11px 13px}
+.oof.ono{color:var(--mu);font-size:12px;line-height:1.4}
+.oofm{font-size:10px;font-weight:700;letter-spacing:0.05em;text-transform:uppercase;color:var(--mu);margin-bottom:4px;display:flex;justify-content:space-between;gap:8px}
+.oofd{color:var(--pu);font-weight:800}
+.oofp{font-size:15px;font-weight:600;color:var(--mu)}.oofp strong{color:var(--gr);font-size:18px;font-weight:800}
+.oofb{width:100%;margin-top:10px;background:var(--gr-bg);border:1px solid var(--gr-bd);color:var(--gr);border-radius:var(--rs);padding:9px;font-size:12px;font-weight:700;font-family:inherit;cursor:pointer;transition:all 0.1s}
+.oofb:active{transform:scale(0.98)}
 </style>
 </head>
 <body>
@@ -375,10 +400,40 @@ header{padding:20px 20px 0;display:flex;align-items:center;gap:12px}
   <div style="height:20px"></div>
 </div></div>
 
+<!-- ══ ABA OFERTA ══ -->
+<div class="pg" id="pg-o">
+<div class="w">
+  <div class="sc">🎯 direcionamento de oferta</div>
+  <div class="ohint">Ordenado por <b>margem à vista</b>. O número que importa pra promoção é o <b>teto de desconto</b>: o máximo que dá pra baixar mantendo o piso escolhido. Margem alta = mais espaço. Topo de linha costuma ter pouco espaço — cruze isso com o que realmente gira.</div>
+  <div class="ofl">
+    <div class="oflr"><span class="ofll">Piso de margem</span><div class="ochips">
+      <button class="ochip on" id="opiso12" onclick="oPiso(12)">🟢 Verde 12%</button>
+      <button class="ochip" id="opiso7" onclick="oPiso(7)">🟡 Amarelo 7%</button>
+    </div></div>
+    <div class="oflr"><span class="ofll">Categoria</span><div class="ochips" id="ocat">
+      <button class="ochip on" onclick="oCat('all',this)">Todas</button>
+      <button class="ochip" onclick="oCat('iPhone',this)">iPhone</button>
+      <button class="ochip" onclick="oCat('MacBook',this)">MacBook</button>
+      <button class="ochip" onclick="oCat('iPad',this)">iPad</button>
+      <button class="ochip" onclick="oCat('Apple Watch',this)">Watch</button>
+      <button class="ochip" onclick="oCat('Acessório',this)">Acessório</button>
+    </div></div>
+    <div class="oflr"><span class="ofll">Tipo</span><div class="ochips" id="otipo">
+      <button class="ochip on" onclick="oTipo('all',this)">Todos</button>
+      <button class="ochip" onclick="oTipo('Lacrado',this)">Lacrado</button>
+      <button class="ochip" onclick="oTipo('Seminovo',this)">Seminovo</button>
+    </div></div>
+  </div>
+  <div class="ocount" id="ocount"></div>
+  <div id="olist"></div>
+  <div style="height:20px"></div>
+</div></div>
+
 <!-- TAB BAR -->
 <div class="tab-bar">
   <button class="tb tv on" id="tbv" onclick="swTab('v')"><span class="ti">🧮</span>VENDA</button>
   <button class="tb tu" id="tbu" onclick="swTab('u')"><span class="ti">🔄</span>UPGRADE</button>
+  <button class="tb to" id="tbo" onclick="swTab('o')"><span class="ti">🎯</span>OFERTA</button>
   <button class="tb tc" id="tbc" onclick="swTab('c')"><span class="ti">⚙️</span>CONFIG</button>
 </div>
 <div class="toast" id="toast"></div>
@@ -404,12 +459,13 @@ function cp(txt,m){if(navigator.clipboard){navigator.clipboard.writeText(txt).th
 // date
 (()=>{const d=new Date();document.getElementById('hd').textContent=d.toLocaleDateString('pt-BR',{day:'2-digit',month:'2-digit',year:'numeric'});})();
 // ── TABS ──
-const HDR={v:{e:'🧮',lc:'lv',t:'Calculadora de Vendas'},u:{e:'🔄',lc:'lu',t:'Calculadora de Upgrade'},c:{e:'⚙️',lc:'lc',t:'Configurações'}};
+const HDR={v:{e:'🧮',lc:'lv',t:'Calculadora de Vendas'},u:{e:'🔄',lc:'lu',t:'Calculadora de Upgrade'},o:{e:'🎯',lc:'lo',t:'Oferta da Semana'},c:{e:'⚙️',lc:'lc',t:'Configurações'}};
 function swTab(id){
-  ['v','u','c'].forEach(x=>{
+  ['v','u','o','c'].forEach(x=>{
     document.getElementById('tb'+x).className='tb t'+x+(x===id?' on':'');
     document.getElementById('pg-'+x).className='pg'+(x===id?' on':'');
   });
+  if(id==='o')oRender();
   const h=HDR[id];
   const lg=document.getElementById('hl');lg.textContent=h.e;lg.className='logo '+h.lc;
   document.getElementById('htt').textContent=h.t;
@@ -1083,6 +1139,47 @@ function uInt(){
   cp(`🔄 UPGRADE INTERNO\nNovo: ${hasU?UN.nm:'—'}${UN.cor?' | '+UN.cor:''} | custo:${fmt(UN.cu)} | av:${fmt(UN.av)}\nFrete:${fmt(fr)} (${mds[UN.fm]}) | loja:${fmt(fa)} | cliente:${fmt(fc)}\nUsado: ${hasE?UU.nm:'—'} | mercado:${fmt(UU.cu)} | ajuste:-${CFG.d} | reparos:-${fmt(tot)}\nEntrada:${fmt(ent)} | Diferença à vista:${fmt(diff)}\nBase parc:${fmt(diffP)}\n12x:${fmt(p12)}/Tot:${fmt(t12)}\n18x:${fmt(p18)}/Tot:${fmt(t18)}`,'✅ Interno!');
 }
 function uLmp(){unClr();uuClr();document.getElementById('ufrete').value='';document.getElementById('ufrr').className='frr';document.getElementById('uab').value='';document.getElementById('uabw').style.display='none';}
+// ════════ ABA OFERTA ════════
+let OF={piso:12,cat:'all',tipo:'all',top:[]};
+function oPiso(v){OF.piso=v;document.getElementById('opiso12').className='ochip'+(v===12?' on':'');document.getElementById('opiso7').className='ochip'+(v===7?' on':'');oRender();}
+function oCat(c,el){OF.cat=c;document.querySelectorAll('#ocat .ochip').forEach(b=>b.className='ochip');el.className='ochip on';oRender();}
+function oTipo(t,el){OF.tipo=t;document.querySelectorAll('#otipo .ochip').forEach(b=>b.className='ochip');el.className='ochip on';oRender();}
+function oRender(){
+  const wrap=document.getElementById('olist');if(!wrap||!P.length)return;
+  // 1 entrada por modelo+tipo, mantendo o fornecedor mais barato
+  const map={};
+  P.forEach(p=>{const cst=cm(p);if(cst<=0)return;const k=p.n+'|'+p.t;if(!map[k]||cst<cm(map[k]))map[k]=p;});
+  let items=Object.values(map);
+  if(OF.cat!=='all')items=items.filter(p=>p.c===OF.cat);
+  if(OF.tipo!=='all')items=items.filter(p=>p.t===OF.tipo);
+  const f=OF.piso/100;
+  const rows=items.map(p=>{
+    const custo=cm(p);const m=mg(p.c);const preco=custo+m.av;const lucro=m.av;const marg=lucro/preco*100;
+    const descMax=(lucro-f*preco)/(1-f); // desconto máx mantendo margem >= piso
+    return{p,custo,preco,lucro,marg,descMax};
+  }).sort((a,b)=>b.marg-a.marg);
+  document.getElementById('ocount').textContent=rows.length+' produto'+(rows.length!==1?'s':'')+' · piso '+OF.piso+'%';
+  const top=rows.slice(0,40);OF.top=top;
+  let html='';
+  top.forEach((r,i)=>{
+    const mc=r.marg>=12?'mgr':r.marg>=7?'myr':'mrr';
+    let oferta='';
+    if(r.descMax<=0){
+      oferta=`<div class="oof ono">🔒 Sem espaço no piso ${OF.piso}% — margem já em ${fpt(r.marg)}. Não recomendado p/ desconto.</div>`;
+    }else{
+      const safeMin=r.preco-r.descMax;const pf=Math.ceil(safeMin/10)*10;
+      oferta=`<div class="oof"><div class="oofm"><span>Oferta sugerida</span><span class="oofd">desconto até ${fmt(r.descMax)}</span></div><div class="oofp">${fmt(r.preco)} → <strong>${fmt(pf)}</strong></div><button class="oofb" onclick="oCopy(${i})">📋 copiar oferta</button></div>`;
+    }
+    const nf=P.filter(x=>x.n===r.p.n&&x.t===r.p.t).length;
+    html+=`<div class="ocd"><div class="ocdh"><div class="ocdn">${r.p.n} <span class="ocdt">${r.p.t}</span></div><span class="ocdb ${mc}">${fpt(r.marg)}</span></div><div class="ocdm">📍 ${r.p.f}${r.p.l?' · '+r.p.l:''}${nf>1?' · <span style="color:var(--bl)">'+nf+' fornec.</span>':''}</div><div class="ocdr"><span>Custo ${fmt(r.custo)}</span><span>Lucro ${fmt(r.lucro)}</span></div>${oferta}</div>`;
+  });
+  wrap.innerHTML=html||'<div class="ohint">Nenhum produto com preço para esses filtros.</div>';
+}
+function oCopy(i){
+  const r=OF.top[i];if(!r)return;
+  const safeMin=r.preco-r.descMax;const pf=Math.ceil(safeMin/10)*10;
+  cp(`🔥 *OFERTA DA SEMANA — Pitstop Imports*\n\n📱 ${r.p.n} (${r.p.t})\n💰 *${fmt(pf)}* à vista\n\n📲 Chama pra garantir!`,'✅ Oferta copiada!');
+}
 // ════════ CONFIG ════════
 function cfSv(){
   CFG.d=parseFloat(document.getElementById('cfd').value)||300;
