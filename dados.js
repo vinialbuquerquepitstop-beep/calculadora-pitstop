@@ -1,4 +1,4 @@
-// dados.js — Pitstop Imports — gerado a partir do chat FORNECEDORES PITS (30/06/26)
+// dados.js — Pitstop Imports — gerado a partir do chat FORNECEDORES PITS (08/07/26)
 const DADOS = {
  "config": {
   "d": 300,
@@ -29,6 +29,33 @@ const DADOS = {
    "v": 899.99
   },
   {
+   "n": "AirPods 4",
+   "f": "Cristiano",
+   "l": "Méier — RJ",
+   "c": "Acessório",
+   "t": "Lacrado",
+   "v": 900.0
+  },
+  {
+   "n": "AirPods Max 2",
+   "f": "Cristiano",
+   "l": "Méier — RJ",
+   "c": "Acessório",
+   "t": "Lacrado",
+   "cs": [
+    {
+     "n": "Midnight",
+     "h": "#1a1f2b",
+     "v": 3800.0
+    },
+    {
+     "n": "Starlight",
+     "h": "#faf6ef",
+     "v": 3800.0
+    }
+   ]
+  },
+  {
    "n": "AirPods Max USB-C",
    "f": "Júnior",
    "l": "Recreio — RJ",
@@ -49,6 +76,14 @@ const DADOS = {
    "c": "Acessório",
    "t": "Lacrado",
    "v": 1299.0
+  },
+  {
+   "n": "AirPods Pro 3",
+   "f": "Cristiano",
+   "l": "Méier — RJ",
+   "c": "Acessório",
+   "t": "Lacrado",
+   "v": 1500.0
   },
   {
    "n": "AirPods Pro 3",
@@ -80,7 +115,7 @@ const DADOS = {
    "l": "Campo Grande — RJ",
    "c": "Acessório",
    "t": "Lacrado",
-   "v": 499.99
+   "v": 599.99
   },
   {
    "n": "AirTag Pack 4",
@@ -187,6 +222,25 @@ const DADOS = {
   },
   {
    "n": "Apple Watch S11 42mm",
+   "f": "Cristiano",
+   "l": "Méier — RJ",
+   "c": "Apple Watch",
+   "t": "Lacrado",
+   "cs": [
+    {
+     "n": "Rose Gold",
+     "h": "#f4c2c2",
+     "v": 2300.0
+    },
+    {
+     "n": "Jet Black",
+     "h": "#0b0b0d",
+     "v": 2300.0
+    }
+   ]
+  },
+  {
+   "n": "Apple Watch S11 42mm",
    "f": "MP Imports",
    "l": "Campo Grande — RJ",
    "c": "Apple Watch",
@@ -206,40 +260,6 @@ const DADOS = {
      "n": "Rose",
      "h": "#f4c2c2",
      "v": 2399.99
-    }
-   ]
-  },
-  {
-   "n": "Apple Watch S11 42mm",
-   "f": "Quality",
-   "l": "Barra da Tijuca — RJ",
-   "c": "Apple Watch",
-   "t": "Lacrado",
-   "cs": [
-    {
-     "n": "Black",
-     "h": "#1c1c1e",
-     "v": 2650.0
-    },
-    {
-     "n": "Silver",
-     "h": "#e3e4e6",
-     "v": 2650.0
-    },
-    {
-     "n": "Space Gray",
-     "h": "#4a4a4c",
-     "v": 2650.0
-    },
-    {
-     "n": "Gold",
-     "h": "#f4e4b8",
-     "v": 2650.0
-    },
-    {
-     "n": "Rose",
-     "h": "#f4c2c2",
-     "v": 2650.0
     }
    ]
   },
@@ -274,6 +294,30 @@ const DADOS = {
   },
   {
    "n": "Apple Watch S11 46mm",
+   "f": "Cristiano",
+   "l": "Méier — RJ",
+   "c": "Apple Watch",
+   "t": "Lacrado",
+   "cs": [
+    {
+     "n": "Space Gray",
+     "h": "#4a4a4c",
+     "v": 2500.0
+    },
+    {
+     "n": "Jet Black",
+     "h": "#0b0b0d",
+     "v": 2500.0
+    },
+    {
+     "n": "Rose Gold",
+     "h": "#f4c2c2",
+     "v": 2500.0
+    }
+   ]
+  },
+  {
+   "n": "Apple Watch S11 46mm",
    "f": "MP Imports",
    "l": "Campo Grande — RJ",
    "c": "Apple Watch",
@@ -288,40 +332,20 @@ const DADOS = {
      "n": "Rose",
      "h": "#f4c2c2",
      "v": 2599.99
-    },
-    {
-     "n": "Jet Black",
-     "h": "#0b0b0d",
-     "v": 2599.99
     }
    ]
   },
   {
-   "n": "Apple Watch S11 46mm",
-   "f": "Quality",
-   "l": "Barra da Tijuca — RJ",
+   "n": "Apple Watch SE 2 44mm",
+   "f": "Cristiano",
+   "l": "Méier — RJ",
    "c": "Apple Watch",
    "t": "Lacrado",
    "cs": [
     {
-     "n": "Black",
-     "h": "#1c1c1e",
-     "v": 2750.0
-    },
-    {
-     "n": "Space Gray",
-     "h": "#4a4a4c",
-     "v": 2750.0
-    },
-    {
-     "n": "Silver",
-     "h": "#e3e4e6",
-     "v": 2750.0
-    },
-    {
-     "n": "Gold",
-     "h": "#f4e4b8",
-     "v": 2750.0
+     "n": "Midnight",
+     "h": "#1a1f2b",
+     "v": 1400.0
     }
    ]
   },
@@ -340,20 +364,6 @@ const DADOS = {
    ]
   },
   {
-   "n": "Apple Watch SE 2 44mm GPS",
-   "f": "Quality",
-   "l": "Barra da Tijuca — RJ",
-   "c": "Apple Watch",
-   "t": "Lacrado",
-   "cs": [
-    {
-     "n": "Preto",
-     "h": "#1c1c1e",
-     "v": 1700.0
-    }
-   ]
-  },
-  {
    "n": "Apple Watch SE 2 44mm GPS+Cel",
    "f": "Júnior",
    "l": "Recreio — RJ",
@@ -364,34 +374,6 @@ const DADOS = {
      "n": "Preto",
      "h": "#1c1c1e",
      "v": 1550.0
-    }
-   ]
-  },
-  {
-   "n": "Apple Watch SE 2 44mm GPS+Cel",
-   "f": "Quality",
-   "l": "Barra da Tijuca — RJ",
-   "c": "Apple Watch",
-   "t": "Lacrado",
-   "cs": [
-    {
-     "n": "Preto",
-     "h": "#1c1c1e",
-     "v": 1850.0
-    }
-   ]
-  },
-  {
-   "n": "Apple Watch SE 3 40mm",
-   "f": "Real Comércio",
-   "l": "Centro — RJ",
-   "c": "Apple Watch",
-   "t": "Lacrado",
-   "cs": [
-    {
-     "n": "Midnight",
-     "h": "#1a1f2b",
-     "v": 1689.89
     }
    ]
   },
@@ -444,20 +426,15 @@ const DADOS = {
   },
   {
    "n": "Apple Watch SE 3 40mm",
-   "f": "Quality",
-   "l": "Barra da Tijuca — RJ",
+   "f": "Cristiano",
+   "l": "Méier — RJ",
    "c": "Apple Watch",
    "t": "Lacrado",
    "cs": [
     {
-     "n": "Preto",
-     "h": "#1c1c1e",
-     "v": 2050.0
-    },
-    {
      "n": "Starlight",
      "h": "#faf6ef",
-     "v": 2050.0
+     "v": 1850.0
     }
    ]
   },
@@ -495,21 +472,44 @@ const DADOS = {
    ]
   },
   {
-   "n": "Apple Watch SE 3 44mm",
-   "f": "Quality",
-   "l": "Barra da Tijuca — RJ",
+   "n": "Apple Watch Ultra 3 49mm",
+   "f": "Cristiano",
+   "l": "Méier — RJ",
    "c": "Apple Watch",
    "t": "Lacrado",
    "cs": [
     {
-     "n": "Starlight",
-     "h": "#faf6ef",
-     "v": 2150.0
-    },
-    {
-     "n": "Preto",
+     "n": "Black Ocean Band",
      "h": "#1c1c1e",
-     "v": 2150.0
+     "v": 4500.0
+    }
+   ]
+  },
+  {
+   "n": "Apple Watch Ultra 3 49mm",
+   "f": "MP Imports",
+   "l": "Campo Grande — RJ",
+   "c": "Apple Watch",
+   "t": "Lacrado",
+   "cs": [
+    {
+     "n": "Black",
+     "h": "#1c1c1e",
+     "v": 4699.99
+    }
+   ]
+  },
+  {
+   "n": "Apple Watch Ultra 3 49mm",
+   "f": "Real Comércio",
+   "l": "Centro — RJ",
+   "c": "Apple Watch",
+   "t": "Lacrado",
+   "cs": [
+    {
+     "n": "Black",
+     "h": "#1c1c1e",
+     "v": 4720.0
     }
    ]
   },
@@ -543,20 +543,6 @@ const DADOS = {
   },
   {
    "n": "Apple Watch Ultra 3 49mm",
-   "f": "Real Comércio",
-   "l": "Centro — RJ",
-   "c": "Apple Watch",
-   "t": "Lacrado",
-   "cs": [
-    {
-     "n": "Black",
-     "h": "#1c1c1e",
-     "v": 4940.9
-    }
-   ]
-  },
-  {
-   "n": "Apple Watch Ultra 3 49mm",
    "f": "Five Cell",
    "l": "Caxias — RJ",
    "c": "Apple Watch",
@@ -571,15 +557,15 @@ const DADOS = {
   },
   {
    "n": "Apple Watch Ultra 3 49mm",
-   "f": "Quality",
-   "l": "Barra da Tijuca — RJ",
+   "f": "LBR Importados",
+   "l": "Centro — Niterói/RJ",
    "c": "Apple Watch",
-   "t": "Lacrado",
+   "t": "Seminovo",
    "cs": [
     {
-     "n": "Ocean Band",
-     "h": "#141414",
-     "v": 5390.0
+     "n": "Black Titanium",
+     "h": "#2a2a2a",
+     "v": 4500.0
     }
    ]
   },
@@ -601,19 +587,19 @@ const DADOS = {
   },
   {
    "n": "Mac Mini M4 16/256GB",
+   "f": "Real Comércio",
+   "l": "Centro — RJ",
+   "c": "MacBook",
+   "t": "Lacrado",
+   "v": 5349.0
+  },
+  {
+   "n": "Mac Mini M4 16/256GB",
    "f": "LBR Importados",
    "l": "Centro — Niterói/RJ",
    "c": "MacBook",
    "t": "Lacrado",
    "v": 5390.0
-  },
-  {
-   "n": "Mac Mini M4 16/256GB",
-   "f": "Real Comércio",
-   "l": "Centro — RJ",
-   "c": "MacBook",
-   "t": "Lacrado",
-   "v": 5420.0
   },
   {
    "n": "Mac Mini M4 16/512GB",
@@ -629,7 +615,7 @@ const DADOS = {
    "l": "Centro — RJ",
    "c": "MacBook",
    "t": "Lacrado",
-   "v": 6970.0
+   "v": 6819.0
   },
   {
    "n": "Mac Mini M4 16/512GB",
@@ -641,20 +627,6 @@ const DADOS = {
   },
   {
    "n": "MacBook Air M4 13\" 16/256GB",
-   "f": "Real Comércio",
-   "l": "Centro — RJ",
-   "c": "MacBook",
-   "t": "Lacrado",
-   "cs": [
-    {
-     "n": "Silver",
-     "h": "#e3e4e6",
-     "v": 6496.0
-    }
-   ]
-  },
-  {
-   "n": "MacBook Air M4 13\" 16/256GB",
    "f": "Júnior",
    "l": "Recreio — RJ",
    "c": "MacBook",
@@ -663,7 +635,7 @@ const DADOS = {
     {
      "n": "Sky Blue",
      "h": "#a8cbe6",
-     "v": 6599.0
+     "v": 6799.0
     }
    ]
   },
@@ -678,25 +650,6 @@ const DADOS = {
      "n": "Silver",
      "h": "#e3e4e6",
      "v": 6832.0
-    },
-    {
-     "n": "Sky Blue",
-     "h": "#a8cbe6",
-     "v": 6832.0
-    }
-   ]
-  },
-  {
-   "n": "MacBook Air M5 13\" 16/1TB",
-   "f": "Quality",
-   "l": "Barra da Tijuca — RJ",
-   "c": "MacBook",
-   "t": "Lacrado",
-   "cs": [
-    {
-     "n": "Midnight",
-     "h": "#1a1f2b",
-     "v": 9500.0
     }
    ]
   },
@@ -710,7 +663,31 @@ const DADOS = {
     {
      "n": "Midnight",
      "h": "#1a1f2b",
-     "v": 6850.0
+     "v": 7199.0
+    }
+   ]
+  },
+  {
+   "n": "MacBook Air M5 13\" 16/512GB",
+   "f": "Cristiano",
+   "l": "Méier — RJ",
+   "c": "MacBook",
+   "t": "Lacrado",
+   "cs": [
+    {
+     "n": "Midnight",
+     "h": "#1a1f2b",
+     "v": 7500.0
+    },
+    {
+     "n": "Sky Blue",
+     "h": "#a8cbe6",
+     "v": 7500.0
+    },
+    {
+     "n": "Silver",
+     "h": "#e3e4e6",
+     "v": 7700.0
     }
    ]
   },
@@ -722,43 +699,14 @@ const DADOS = {
    "t": "Lacrado",
    "cs": [
     {
-     "n": "Sky Blue",
-     "h": "#a8cbe6",
-     "v": 7100.0
+     "n": "Midnight",
+     "h": "#1a1f2b",
+     "v": 7793.0
     },
     {
      "n": "Starlight",
      "h": "#faf6ef",
-     "v": 7189.8
-    },
-    {
-     "n": "Silver",
-     "h": "#e3e4e6",
-     "v": 7315.84
-    },
-    {
-     "n": "Midnight",
-     "h": "#1a1f2b",
-     "v": 7371.84
-    }
-   ]
-  },
-  {
-   "n": "MacBook Air M5 13\" 16/512GB",
-   "f": "LBR Importados",
-   "l": "Centro — Niterói/RJ",
-   "c": "MacBook",
-   "t": "Lacrado",
-   "cs": [
-    {
-     "n": "Sky Blue",
-     "h": "#a8cbe6",
-     "v": 7800.0
-    },
-    {
-     "n": "Midnight",
-     "h": "#1a1f2b",
-     "v": 7800.0
+     "v": 7798.0
     }
    ]
   },
@@ -770,6 +718,11 @@ const DADOS = {
    "t": "Lacrado",
    "cs": [
     {
+     "n": "Midnight",
+     "h": "#1a1f2b",
+     "v": 8099.0
+    },
+    {
      "n": "Estelar",
      "h": "#faf6ef",
      "v": 8099.0
@@ -778,30 +731,6 @@ const DADOS = {
      "n": "Azul",
      "h": "#2c4f8c",
      "v": 8099.0
-    },
-    {
-     "n": "Midnight",
-     "h": "#1a1f2b",
-     "v": 8099.0
-    },
-    {
-     "n": "Cinza",
-     "h": "#4a4a4c",
-     "v": 8099.0
-    }
-   ]
-  },
-  {
-   "n": "MacBook Air M5 15\" 16/512GB",
-   "f": "LBR Importados",
-   "l": "Centro — Niterói/RJ",
-   "c": "MacBook",
-   "t": "Lacrado",
-   "cs": [
-    {
-     "n": "Midnight",
-     "h": "#1a1f2b",
-     "v": 8700.0
     }
    ]
   },
@@ -813,11 +742,6 @@ const DADOS = {
    "t": "Lacrado",
    "cs": [
     {
-     "n": "Estelar",
-     "h": "#faf6ef",
-     "v": 10190.0
-    },
-    {
      "n": "Azul",
      "h": "#2c4f8c",
      "v": 10190.0
@@ -828,31 +752,14 @@ const DADOS = {
      "v": 10190.0
     },
     {
+     "n": "Estelar",
+     "h": "#faf6ef",
+     "v": 10190.0
+    },
+    {
      "n": "Midnight",
      "h": "#1a1f2b",
      "v": 10190.0
-    }
-   ]
-  },
-  {
-   "n": "MacBook M4 16/256GB",
-   "f": "Five Cell",
-   "l": "Caxias — RJ",
-   "c": "MacBook",
-   "t": "Lacrado",
-   "v": 6800.0
-  },
-  {
-   "n": "MacBook M5 16/512GB",
-   "f": "Five Cell",
-   "l": "Caxias — RJ",
-   "c": "MacBook",
-   "t": "Lacrado",
-   "cs": [
-    {
-     "n": "Azul",
-     "h": "#2c4f8c",
-     "v": 7000.0
     }
    ]
   },
@@ -866,7 +773,40 @@ const DADOS = {
     {
      "n": "Silver",
      "h": "#e3e4e6",
-     "v": 4399.0
+     "v": 4699.0
+    }
+   ]
+  },
+  {
+   "n": "MacBook Neo 13\" 8/256GB",
+   "f": "MP Imports",
+   "l": "Campo Grande — RJ",
+   "c": "MacBook",
+   "t": "Lacrado",
+   "cs": [
+    {
+     "n": "Rosa",
+     "h": "#f4c2c2",
+     "v": 4799.99
+    }
+   ]
+  },
+  {
+   "n": "MacBook Neo 13\" 8/256GB",
+   "f": "Cristiano",
+   "l": "Méier — RJ",
+   "c": "MacBook",
+   "t": "Lacrado",
+   "cs": [
+    {
+     "n": "Rosa Blush",
+     "h": "#f4c2c2",
+     "v": 5000.0
+    },
+    {
+     "n": "Índigo",
+     "h": "#2c4f8c",
+     "v": 5000.0
     }
    ]
   },
@@ -878,8 +818,8 @@ const DADOS = {
    "t": "Lacrado",
    "cs": [
     {
-     "n": "Azul",
-     "h": "#2c4f8c",
+     "n": "Rosa",
+     "h": "#f4c2c2",
      "v": 5450.0
     },
     {
@@ -888,8 +828,8 @@ const DADOS = {
      "v": 5450.0
     },
     {
-     "n": "Rosa",
-     "h": "#f4c2c2",
+     "n": "Azul",
+     "h": "#2c4f8c",
      "v": 5450.0
     }
    ]
@@ -902,33 +842,14 @@ const DADOS = {
    "t": "Lacrado",
    "cs": [
     {
+     "n": "Silver",
+     "h": "#e3e4e6",
+     "v": 6450.0
+    },
+    {
      "n": "Azul",
      "h": "#2c4f8c",
      "v": 6450.0
-    },
-    {
-     "n": "Silver",
-     "h": "#e3e4e6",
-     "v": 6450.0
-    },
-    {
-     "n": "Rosa",
-     "h": "#f4c2c2",
-     "v": 6450.0
-    }
-   ]
-  },
-  {
-   "n": "MacBook Neo 8/256GB",
-   "f": "LBR Importados",
-   "l": "Centro — Niterói/RJ",
-   "c": "MacBook",
-   "t": "Lacrado",
-   "cs": [
-    {
-     "n": "Silver",
-     "h": "#e3e4e6",
-     "v": 4850.0
     }
    ]
   },
@@ -957,6 +878,11 @@ const DADOS = {
      "n": "Black",
      "h": "#1c1c1e",
      "v": 13700.0
+    },
+    {
+     "n": "Silver",
+     "h": "#e3e4e6",
+     "v": 13700.0
     }
    ]
   },
@@ -970,7 +896,7 @@ const DADOS = {
     {
      "n": "Preto",
      "h": "#1c1c1e",
-     "v": 10300.0
+     "v": 10400.0
     }
    ]
   },
@@ -984,7 +910,7 @@ const DADOS = {
     {
      "n": "Space Black",
      "h": "#4a4a4c",
-     "v": 15990.0
+     "v": 16590.0
     }
    ]
   },
@@ -1012,7 +938,7 @@ const DADOS = {
     {
      "n": "Silver",
      "h": "#e3e4e6",
-     "v": 19399.99
+     "v": 18500.0
     }
    ]
   },
@@ -1065,20 +991,34 @@ const DADOS = {
   },
   {
    "n": "iPad 11 128GB",
-   "f": "Júnior",
-   "l": "Recreio — RJ",
+   "f": "Real Comércio",
+   "l": "Centro — RJ",
    "c": "iPad",
    "t": "Lacrado",
    "cs": [
     {
-     "n": "Azul",
-     "h": "#2c4f8c",
-     "v": 2299.0
-    },
+     "n": "Silver",
+     "h": "#e3e4e6",
+     "v": 2642.0
+    }
+   ]
+  },
+  {
+   "n": "iPad 11 128GB",
+   "f": "Cristiano",
+   "l": "Méier — RJ",
+   "c": "iPad",
+   "t": "Lacrado",
+   "cs": [
     {
      "n": "Rosa",
      "h": "#f4c2c2",
-     "v": 2299.0
+     "v": 2650.0
+    },
+    {
+     "n": "Silver",
+     "h": "#e3e4e6",
+     "v": 2650.0
     }
    ]
   },
@@ -1107,6 +1047,49 @@ const DADOS = {
    ]
   },
   {
+   "n": "iPad 11 128GB",
+   "f": "Júnior",
+   "l": "Recreio — RJ",
+   "c": "iPad",
+   "t": "Lacrado",
+   "cs": [
+    {
+     "n": "Azul",
+     "h": "#2c4f8c",
+     "v": 2850.0
+    },
+    {
+     "n": "Rosa",
+     "h": "#f4c2c2",
+     "v": 2850.0
+    }
+   ]
+  },
+  {
+   "n": "iPad 11 128GB",
+   "f": "Revel",
+   "l": "Nova Iguaçu — RJ",
+   "c": "iPad",
+   "t": "Seminovo",
+   "cs": [
+    {
+     "n": "Rosa",
+     "h": "#f4c2c2",
+     "v": 2649.99
+    },
+    {
+     "n": "Azul",
+     "h": "#2c4f8c",
+     "v": 2649.99
+    },
+    {
+     "n": "Silver",
+     "h": "#e3e4e6",
+     "v": 2679.99
+    }
+   ]
+  },
+  {
    "n": "iPad 11 256GB",
    "f": "Júnior",
    "l": "Recreio — RJ",
@@ -1116,26 +1099,12 @@ const DADOS = {
     {
      "n": "Rosa",
      "h": "#f4c2c2",
-     "v": 3250.0
+     "v": 3599.0
     },
     {
      "n": "Azul",
      "h": "#2c4f8c",
-     "v": 3250.0
-    }
-   ]
-  },
-  {
-   "n": "iPad 128GB",
-   "f": "M Apple",
-   "l": "Campo Grande — RJ",
-   "c": "iPad",
-   "t": "Lacrado",
-   "cs": [
-    {
-     "n": "Azul",
-     "h": "#2c4f8c",
-     "v": 2230.0
+     "v": 3599.0
     }
    ]
   },
@@ -1166,11 +1135,6 @@ const DADOS = {
      "v": 2650.0
     },
     {
-     "n": "Rosa",
-     "h": "#f4c2c2",
-     "v": 2650.0
-    },
-    {
      "n": "Prateado",
      "h": "#e3e4e6",
      "v": 2700.0
@@ -1187,31 +1151,7 @@ const DADOS = {
     {
      "n": "Lilás",
      "h": "#7b6b9e",
-     "v": 3899.0
-    },
-    {
-     "n": "Starlight",
-     "h": "#faf6ef",
-     "v": 3899.0
-    },
-    {
-     "n": "Azul",
-     "h": "#2c4f8c",
-     "v": 3899.0
-    }
-   ]
-  },
-  {
-   "n": "iPad Air M4 11\" 128GB",
-   "f": "LBR Importados",
-   "l": "Centro — Niterói/RJ",
-   "c": "iPad",
-   "t": "Lacrado",
-   "cs": [
-    {
-     "n": "Space Gray",
-     "h": "#4a4a4c",
-     "v": 4300.0
+     "v": 4250.0
     }
    ]
   },
@@ -1436,7 +1376,21 @@ const DADOS = {
    "l": "Bangu — RJ",
    "c": "iPhone",
    "t": "Seminovo",
-   "v": 1390.0
+   "v": 1549.0
+  },
+  {
+   "n": "iPhone 12 128GB",
+   "f": "Quality",
+   "l": "Barra da Tijuca — RJ",
+   "c": "iPhone",
+   "t": "Seminovo",
+   "cs": [
+    {
+     "n": "Preto",
+     "h": "#1c1c1e",
+     "v": 1549.0
+    }
+   ]
   },
   {
    "n": "iPhone 12 128GB",
@@ -1456,38 +1410,9 @@ const DADOS = {
      "v": 1550.0
     },
     {
-     "n": "Lilás",
-     "h": "#7b6b9e",
-     "v": 1550.0
-    },
-    {
      "n": "Azul",
      "h": "#2c4f8c",
      "v": 1550.0
-    }
-   ]
-  },
-  {
-   "n": "iPhone 12 128GB",
-   "f": "Quality",
-   "l": "Barra da Tijuca — RJ",
-   "c": "iPhone",
-   "t": "Seminovo",
-   "cs": [
-    {
-     "n": "Preto",
-     "h": "#1c1c1e",
-     "v": 1580.0
-    },
-    {
-     "n": "Branco",
-     "h": "#f5f5f0",
-     "v": 1580.0
-    },
-    {
-     "n": "Azul",
-     "h": "#2c4f8c",
-     "v": 1580.0
     }
    ]
   },
@@ -1531,6 +1456,11 @@ const DADOS = {
      "n": "Preto",
      "h": "#1c1c1e",
      "v": 1600.0
+    },
+    {
+     "n": "Azul",
+     "h": "#2c4f8c",
+     "v": 1600.0
     }
    ]
   },
@@ -1568,14 +1498,6 @@ const DADOS = {
   },
   {
    "n": "iPhone 12 64GB",
-   "f": "Davi/Fábio",
-   "l": "Bangu — RJ",
-   "c": "iPhone",
-   "t": "Seminovo",
-   "v": 1240.0
-  },
-  {
-   "n": "iPhone 12 64GB",
    "f": "Chiq Cell",
    "l": "Bangu — RJ",
    "c": "iPhone",
@@ -1587,30 +1509,34 @@ const DADOS = {
      "v": 1250.0
     },
     {
+     "n": "Verde",
+     "h": "#a7c4a0",
+     "v": 1250.0
+    },
+    {
+     "n": "Branco",
+     "h": "#f5f5f0",
+     "v": 1250.0
+    },
+    {
      "n": "Roxo",
      "h": "#7b6b9e",
+     "v": 1250.0
+    },
+    {
+     "n": "Preto",
+     "h": "#1c1c1e",
      "v": 1250.0
     }
    ]
   },
   {
    "n": "iPhone 12 64GB",
-   "f": "Quality",
-   "l": "Barra da Tijuca — RJ",
+   "f": "Davi/Fábio",
+   "l": "Bangu — RJ",
    "c": "iPhone",
    "t": "Seminovo",
-   "cs": [
-    {
-     "n": "Branco",
-     "h": "#f5f5f0",
-     "v": 1350.0
-    },
-    {
-     "n": "Preto",
-     "h": "#1c1c1e",
-     "v": 1350.0
-    }
-   ]
+   "v": 1390.0
   },
   {
    "n": "iPhone 12 64GB",
@@ -1642,20 +1568,11 @@ const DADOS = {
      "n": "Branco",
      "h": "#f5f5f0",
      "v": 1400.0
-    }
-   ]
-  },
-  {
-   "n": "iPhone 12 Pro 128GB",
-   "f": "M Apple",
-   "l": "Campo Grande — RJ",
-   "c": "iPhone",
-   "t": "Seminovo",
-   "cs": [
+    },
     {
-     "n": "Azul",
-     "h": "#2c4f8c",
-     "v": 1750.0
+     "n": "Preto",
+     "h": "#1c1c1e",
+     "v": 1400.0
     }
    ]
   },
@@ -1824,20 +1741,6 @@ const DADOS = {
   },
   {
    "n": "iPhone 12 Pro Max 128GB",
-   "f": "Quality",
-   "l": "Barra da Tijuca — RJ",
-   "c": "iPhone",
-   "t": "Seminovo",
-   "cs": [
-    {
-     "n": "Azul",
-     "h": "#2c4f8c",
-     "v": 2050.0
-    }
-   ]
-  },
-  {
-   "n": "iPhone 12 Pro Max 128GB",
    "f": "Júnior",
    "l": "Recreio — RJ",
    "c": "iPhone",
@@ -1951,14 +1854,6 @@ const DADOS = {
   },
   {
    "n": "iPhone 13 128GB",
-   "f": "Davi/Fábio",
-   "l": "Bangu — RJ",
-   "c": "iPhone",
-   "t": "Seminovo",
-   "v": 1740.0
-  },
-  {
-   "n": "iPhone 13 128GB",
    "f": "Chiq Cell",
    "l": "Bangu — RJ",
    "c": "iPhone",
@@ -1970,8 +1865,8 @@ const DADOS = {
      "v": 1800.0
     },
     {
-     "n": "Preto",
-     "h": "#1c1c1e",
+     "n": "Verde",
+     "h": "#a7c4a0",
      "v": 1800.0
     },
     {
@@ -1982,20 +1877,6 @@ const DADOS = {
     {
      "n": "Rosa",
      "h": "#f4c2c2",
-     "v": 1800.0
-    }
-   ]
-  },
-  {
-   "n": "iPhone 13 128GB",
-   "f": "M Apple",
-   "l": "Campo Grande — RJ",
-   "c": "iPhone",
-   "t": "Seminovo",
-   "cs": [
-    {
-     "n": "Preto",
-     "h": "#1c1c1e",
      "v": 1800.0
     }
    ]
@@ -2015,6 +1896,11 @@ const DADOS = {
     {
      "n": "Rosa",
      "h": "#f4c2c2",
+     "v": 1850.0
+    },
+    {
+     "n": "Branco",
+     "h": "#f5f5f0",
      "v": 1850.0
     }
    ]
@@ -2093,21 +1979,19 @@ const DADOS = {
   },
   {
    "n": "iPhone 13 128GB",
+   "f": "Davi/Fábio",
+   "l": "Bangu — RJ",
+   "c": "iPhone",
+   "t": "Seminovo",
+   "v": 1949.0
+  },
+  {
+   "n": "iPhone 13 128GB",
    "f": "Revel",
    "l": "Nova Iguaçu — RJ",
    "c": "iPhone",
    "t": "Seminovo",
    "cs": [
-    {
-     "n": "Preto",
-     "h": "#1c1c1e",
-     "v": 1949.99
-    },
-    {
-     "n": "Branco",
-     "h": "#f5f5f0",
-     "v": 1949.99
-    },
     {
      "n": "Rosa",
      "h": "#f4c2c2",
@@ -2121,21 +2005,30 @@ const DADOS = {
    ]
   },
   {
-   "n": "iPhone 13 128GB",
-   "f": "Quality",
-   "l": "Barra da Tijuca — RJ",
+   "n": "iPhone 13 256GB",
+   "f": "Cristiano",
+   "l": "Méier — RJ",
    "c": "iPhone",
-   "t": "Seminovo",
+   "t": "Lacrado",
    "cs": [
-    {
-     "n": "Branco",
-     "h": "#f5f5f0",
-     "v": 2099.0
-    },
     {
      "n": "Preto",
      "h": "#1c1c1e",
-     "v": 2099.0
+     "v": 3050.0
+    }
+   ]
+  },
+  {
+   "n": "iPhone 13 256GB",
+   "f": "Quality",
+   "l": "Barra da Tijuca — RJ",
+   "c": "iPhone",
+   "t": "Lacrado",
+   "cs": [
+    {
+     "n": "Preto",
+     "h": "#1c1c1e",
+     "v": 3199.0
     }
    ]
   },
@@ -2160,14 +2053,28 @@ const DADOS = {
      "v": 2049.99
     },
     {
-     "n": "Azul",
-     "h": "#2c4f8c",
-     "v": 2049.99
-    },
-    {
      "n": "Vermelho",
      "h": "#c0392b",
      "v": 2049.99
+    }
+   ]
+  },
+  {
+   "n": "iPhone 13 256GB",
+   "f": "LBR Importados",
+   "l": "Centro — Niterói/RJ",
+   "c": "iPhone",
+   "t": "Seminovo",
+   "cs": [
+    {
+     "n": "Preto",
+     "h": "#1c1c1e",
+     "v": 2050.0
+    },
+    {
+     "n": "Branco",
+     "h": "#f5f5f0",
+     "v": 2050.0
     }
    ]
   },
@@ -2210,7 +2117,7 @@ const DADOS = {
     {
      "n": "Branco",
      "h": "#f5f5f0",
-     "v": 2199.0
+     "v": 2100.0
     }
    ]
   },
@@ -2254,25 +2161,6 @@ const DADOS = {
      "n": "Preto",
      "h": "#1c1c1e",
      "v": 2350.0
-    }
-   ]
-  },
-  {
-   "n": "iPhone 13 Pro 128GB",
-   "f": "Revel",
-   "l": "Nova Iguaçu — RJ",
-   "c": "iPhone",
-   "t": "Seminovo",
-   "cs": [
-    {
-     "n": "Preto",
-     "h": "#1c1c1e",
-     "v": 2299.99
-    },
-    {
-     "n": "Azul",
-     "h": "#2c4f8c",
-     "v": 2299.99
     }
    ]
   },
@@ -2366,62 +2254,9 @@ const DADOS = {
    "t": "Seminovo",
    "cs": [
     {
-     "n": "Azul",
-     "h": "#2c4f8c",
-     "v": 2650.0
-    },
-    {
      "n": "Grafite",
      "h": "#4a4a4c",
      "v": 2650.0
-    },
-    {
-     "n": "Verde",
-     "h": "#a7c4a0",
-     "v": 3150.0
-    }
-   ]
-  },
-  {
-   "n": "iPhone 13 Pro 128GB",
-   "f": "Quality",
-   "l": "Barra da Tijuca — RJ",
-   "c": "iPhone",
-   "t": "Seminovo",
-   "cs": [
-    {
-     "n": "Azul",
-     "h": "#2c4f8c",
-     "v": 2650.0
-    },
-    {
-     "n": "Branco",
-     "h": "#f5f5f0",
-     "v": 2650.0
-    },
-    {
-     "n": "Preto",
-     "h": "#1c1c1e",
-     "v": 2650.0
-    }
-   ]
-  },
-  {
-   "n": "iPhone 13 Pro 256GB",
-   "f": "Chiq Cell",
-   "l": "Bangu — RJ",
-   "c": "iPhone",
-   "t": "Seminovo",
-   "cs": [
-    {
-     "n": "Verde",
-     "h": "#a7c4a0",
-     "v": 2450.0
-    },
-    {
-     "n": "Preto",
-     "h": "#1c1c1e",
-     "v": 2450.0
     }
    ]
   },
@@ -2480,25 +2315,6 @@ const DADOS = {
      "n": "Branco",
      "h": "#f5f5f0",
      "v": 2649.99
-    }
-   ]
-  },
-  {
-   "n": "iPhone 13 Pro 256GB",
-   "f": "Quality",
-   "l": "Barra da Tijuca — RJ",
-   "c": "iPhone",
-   "t": "Seminovo",
-   "cs": [
-    {
-     "n": "Branco",
-     "h": "#f5f5f0",
-     "v": 2800.0
-    },
-    {
-     "n": "Gold",
-     "h": "#f4e4b8",
-     "v": 2800.0
     }
    ]
   },
@@ -2551,6 +2367,20 @@ const DADOS = {
    ]
   },
   {
+   "n": "iPhone 13 Pro 512GB",
+   "f": "LBR Importados",
+   "l": "Centro — Niterói/RJ",
+   "c": "iPhone",
+   "t": "Seminovo",
+   "cs": [
+    {
+     "n": "Verde",
+     "h": "#a7c4a0",
+     "v": 3150.0
+    }
+   ]
+  },
+  {
    "n": "iPhone 13 Pro Max 128GB",
    "f": "Five Cell",
    "l": "Caxias — RJ",
@@ -2561,26 +2391,8 @@ const DADOS = {
      "n": "Verde",
      "h": "#a7c4a0",
      "v": 2650.0
-    },
-    {
-     "n": "Preto",
-     "h": "#1c1c1e",
-     "v": 2650.0
-    },
-    {
-     "n": "Azul",
-     "h": "#2c4f8c",
-     "v": 2650.0
     }
    ]
-  },
-  {
-   "n": "iPhone 13 Pro Max 128GB",
-   "f": "Davi/Fábio",
-   "l": "Bangu — RJ",
-   "c": "iPhone",
-   "t": "Seminovo",
-   "v": 2749.0
   },
   {
    "n": "iPhone 13 Pro Max 128GB",
@@ -2613,6 +2425,11 @@ const DADOS = {
    "c": "iPhone",
    "t": "Seminovo",
    "cs": [
+    {
+     "n": "Preto",
+     "h": "#1c1c1e",
+     "v": 2750.0
+    },
     {
      "n": "Azul",
      "h": "#2c4f8c",
@@ -2664,26 +2481,16 @@ const DADOS = {
    ]
   },
   {
-   "n": "iPhone 13 Pro Max 128GB",
-   "f": "Quality",
-   "l": "Barra da Tijuca — RJ",
+   "n": "iPhone 13 Pro Max 256GB",
+   "f": "LBR Importados",
+   "l": "Centro — Niterói/RJ",
    "c": "iPhone",
    "t": "Seminovo",
    "cs": [
     {
-     "n": "Azul",
-     "h": "#2c4f8c",
-     "v": 3099.0
-    },
-    {
-     "n": "Verde",
-     "h": "#a7c4a0",
-     "v": 3099.0
-    },
-    {
-     "n": "Branco",
-     "h": "#f5f5f0",
-     "v": 3099.0
+     "n": "Grafite",
+     "h": "#4a4a4c",
+     "v": 2990.0
     }
    ]
   },
@@ -2770,28 +2577,6 @@ const DADOS = {
   },
   {
    "n": "iPhone 14 128GB",
-   "f": "Davi/Fábio",
-   "l": "Bangu — RJ",
-   "c": "iPhone",
-   "t": "Seminovo",
-   "v": 1899.0
-  },
-  {
-   "n": "iPhone 14 128GB",
-   "f": "M Apple",
-   "l": "Campo Grande — RJ",
-   "c": "iPhone",
-   "t": "Seminovo",
-   "cs": [
-    {
-     "n": "Azul",
-     "h": "#2c4f8c",
-     "v": 2000.0
-    }
-   ]
-  },
-  {
-   "n": "iPhone 14 128GB",
    "f": "Júnior",
    "l": "Recreio — RJ",
    "c": "iPhone",
@@ -2800,7 +2585,7 @@ const DADOS = {
     {
      "n": "Azul",
      "h": "#2c4f8c",
-     "v": 2050.0
+     "v": 2100.0
     },
     {
      "n": "Amarelo",
@@ -2815,14 +2600,22 @@ const DADOS = {
     {
      "n": "Preto",
      "h": "#1c1c1e",
-     "v": 2050.0
+     "v": 2100.0
     },
     {
      "n": "Lilás",
      "h": "#7b6b9e",
-     "v": 2050.0
+     "v": 2100.0
     }
    ]
+  },
+  {
+   "n": "iPhone 14 128GB",
+   "f": "Davi/Fábio",
+   "l": "Bangu — RJ",
+   "c": "iPhone",
+   "t": "Seminovo",
+   "v": 2099.0
   },
   {
    "n": "iPhone 14 128GB",
@@ -2864,140 +2657,47 @@ const DADOS = {
      "n": "Preto",
      "h": "#1c1c1e",
      "v": 2100.0
-    }
-   ]
-  },
-  {
-   "n": "iPhone 14 128GB",
-   "f": "MP Imports",
-   "l": "Campo Grande — RJ",
-   "c": "iPhone",
-   "t": "Seminovo",
-   "cs": [
-    {
-     "n": "Branco",
-     "h": "#f5f5f0",
-     "v": 2149.99
-    },
-    {
-     "n": "Preto",
-     "h": "#1c1c1e",
-     "v": 2149.99
-    },
-    {
-     "n": "Lilás",
-     "h": "#7b6b9e",
-     "v": 2149.99
-    },
-    {
-     "n": "Azul",
-     "h": "#2c4f8c",
-     "v": 2149.99
-    }
-   ]
-  },
-  {
-   "n": "iPhone 14 128GB",
-   "f": "Quality",
-   "l": "Barra da Tijuca — RJ",
-   "c": "iPhone",
-   "t": "Seminovo",
-   "cs": [
-    {
-     "n": "Preto",
-     "h": "#1c1c1e",
-     "v": 2150.0
     },
     {
      "n": "Branco",
      "h": "#f5f5f0",
-     "v": 2150.0
-    }
-   ]
-  },
-  {
-   "n": "iPhone 14 128GB",
-   "f": "FMATA",
-   "l": "Centro — RJ",
-   "c": "iPhone",
-   "t": "Seminovo",
-   "cs": [
-    {
-     "n": "Black",
-     "h": "#1c1c1e",
-     "v": 2200.0
-    }
-   ]
-  },
-  {
-   "n": "iPhone 14 256GB",
-   "f": "Júnior",
-   "l": "Recreio — RJ",
-   "c": "iPhone",
-   "t": "Seminovo",
-   "cs": [
-    {
-     "n": "Preto",
-     "h": "#1c1c1e",
-     "v": 2199.0
-    },
-    {
-     "n": "Azul",
-     "h": "#2c4f8c",
-     "v": 2199.0
-    }
-   ]
-  },
-  {
-   "n": "iPhone 14 256GB",
-   "f": "Davi/Fábio",
-   "l": "Bangu — RJ",
-   "c": "iPhone",
-   "t": "Seminovo",
-   "v": 2299.0
-  },
-  {
-   "n": "iPhone 14 256GB",
-   "f": "MP Imports",
-   "l": "Campo Grande — RJ",
-   "c": "iPhone",
-   "t": "Seminovo",
-   "cs": [
-    {
-     "n": "Azul",
-     "h": "#2c4f8c",
-     "v": 2549.99
-    },
-    {
-     "n": "Lilás",
-     "h": "#7b6b9e",
-     "v": 2549.99
-    },
-    {
-     "n": "Branco",
-     "h": "#f5f5f0",
-     "v": 2549.99
-    }
-   ]
-  },
-  {
-   "n": "iPhone 14 Plus 128GB",
-   "f": "M Apple",
-   "l": "Campo Grande — RJ",
-   "c": "iPhone",
-   "t": "Seminovo",
-   "cs": [
-    {
-     "n": "Preto",
-     "h": "#1c1c1e",
      "v": 2100.0
     }
    ]
   },
   {
-   "n": "iPhone 14 Plus 128GB",
-   "f": "Chiq Cell",
-   "l": "Bangu — RJ",
+   "n": "iPhone 14 128GB",
+   "f": "MP Imports",
+   "l": "Campo Grande — RJ",
+   "c": "iPhone",
+   "t": "Seminovo",
+   "cs": [
+    {
+     "n": "Branco",
+     "h": "#f5f5f0",
+     "v": 2149.99
+    },
+    {
+     "n": "Preto",
+     "h": "#1c1c1e",
+     "v": 2149.99
+    },
+    {
+     "n": "Lilás",
+     "h": "#7b6b9e",
+     "v": 2149.99
+    },
+    {
+     "n": "Azul",
+     "h": "#2c4f8c",
+     "v": 2149.99
+    }
+   ]
+  },
+  {
+   "n": "iPhone 14 256GB",
+   "f": "Júnior",
+   "l": "Recreio — RJ",
    "c": "iPhone",
    "t": "Seminovo",
    "cs": [
@@ -3005,6 +2705,35 @@ const DADOS = {
      "n": "Preto",
      "h": "#1c1c1e",
      "v": 2250.0
+    },
+    {
+     "n": "Azul",
+     "h": "#2c4f8c",
+     "v": 2250.0
+    }
+   ]
+  },
+  {
+   "n": "iPhone 14 256GB",
+   "f": "MP Imports",
+   "l": "Campo Grande — RJ",
+   "c": "iPhone",
+   "t": "Seminovo",
+   "cs": [
+    {
+     "n": "Azul",
+     "h": "#2c4f8c",
+     "v": 2549.99
+    },
+    {
+     "n": "Lilás",
+     "h": "#7b6b9e",
+     "v": 2549.99
+    },
+    {
+     "n": "Branco",
+     "h": "#f5f5f0",
+     "v": 2549.99
     }
    ]
   },
@@ -3031,14 +2760,6 @@ const DADOS = {
      "v": 2250.0
     }
    ]
-  },
-  {
-   "n": "iPhone 14 Plus 128GB",
-   "f": "Davi/Fábio",
-   "l": "Bangu — RJ",
-   "c": "iPhone",
-   "t": "Seminovo",
-   "v": 2299.0
   },
   {
    "n": "iPhone 14 Plus 128GB",
@@ -3095,33 +2816,6 @@ const DADOS = {
   },
   {
    "n": "iPhone 14 Plus 256GB",
-   "f": "Five Cell",
-   "l": "Caxias — RJ",
-   "c": "iPhone",
-   "t": "Seminovo",
-   "cs": [
-    {
-     "n": "Roxo",
-     "h": "#7b6b9e",
-     "v": 2350.0
-    },
-    {
-     "n": "Preto",
-     "h": "#1c1c1e",
-     "v": 2350.0
-    }
-   ]
-  },
-  {
-   "n": "iPhone 14 Plus 256GB",
-   "f": "Davi/Fábio",
-   "l": "Bangu — RJ",
-   "c": "iPhone",
-   "t": "Seminovo",
-   "v": 2399.0
-  },
-  {
-   "n": "iPhone 14 Plus 256GB",
    "f": "Júnior",
    "l": "Recreio — RJ",
    "c": "iPhone",
@@ -3159,11 +2853,6 @@ const DADOS = {
      "n": "Roxo",
      "h": "#7b6b9e",
      "v": 2750.0
-    },
-    {
-     "n": "Preto",
-     "h": "#1c1c1e",
-     "v": 2750.0
     }
    ]
   },
@@ -3174,25 +2863,6 @@ const DADOS = {
    "c": "iPhone",
    "t": "Seminovo",
    "v": 2849.0
-  },
-  {
-   "n": "iPhone 14 Pro 128GB",
-   "f": "Quality",
-   "l": "Barra da Tijuca — RJ",
-   "c": "iPhone",
-   "t": "Seminovo",
-   "cs": [
-    {
-     "n": "Branco",
-     "h": "#f5f5f0",
-     "v": 2850.0
-    },
-    {
-     "n": "Roxo",
-     "h": "#7b6b9e",
-     "v": 2850.0
-    }
-   ]
   },
   {
    "n": "iPhone 14 Pro 128GB",
@@ -3245,11 +2915,6 @@ const DADOS = {
    "t": "Seminovo",
    "cs": [
     {
-     "n": "Preto",
-     "h": "#1c1c1e",
-     "v": 2800.0
-    },
-    {
      "n": "Roxo",
      "h": "#7b6b9e",
      "v": 2800.0
@@ -3266,21 +2931,6 @@ const DADOS = {
     {
      "n": "Preto",
      "h": "#1c1c1e",
-     "v": 2900.0
-    },
-    {
-     "n": "Roxo",
-     "h": "#7b6b9e",
-     "v": 2900.0
-    },
-    {
-     "n": "Branco",
-     "h": "#f5f5f0",
-     "v": 2900.0
-    },
-    {
-     "n": "Dourado",
-     "h": "#f4e4b8",
      "v": 2900.0
     }
    ]
@@ -3357,20 +3007,63 @@ const DADOS = {
   },
   {
    "n": "iPhone 14 Pro Max 128GB",
-   "f": "M Apple",
-   "l": "Campo Grande — RJ",
+   "f": "Júnior",
+   "l": "Recreio — RJ",
    "c": "iPhone",
-   "t": "Seminovo",
+   "t": "Lacrado",
    "cs": [
+    {
+     "n": "Gold",
+     "h": "#f4e4b8",
+     "v": 4250.0
+    },
+    {
+     "n": "Silver",
+     "h": "#e3e4e6",
+     "v": 4250.0
+    },
     {
      "n": "Preto",
      "h": "#1c1c1e",
-     "v": 3150.0
+     "v": 4250.0
     },
     {
      "n": "Roxo",
      "h": "#7b6b9e",
-     "v": 3150.0
+     "v": 4250.0
+    }
+   ]
+  },
+  {
+   "n": "iPhone 14 Pro Max 128GB",
+   "f": "Cristiano",
+   "l": "Méier — RJ",
+   "c": "iPhone",
+   "t": "Lacrado",
+   "cs": [
+    {
+     "n": "Preto",
+     "h": "#1c1c1e",
+     "v": 4250.0
+    },
+    {
+     "n": "Gold",
+     "h": "#f4e4b8",
+     "v": 4250.0
+    }
+   ]
+  },
+  {
+   "n": "iPhone 14 Pro Max 128GB",
+   "f": "Quality",
+   "l": "Barra da Tijuca — RJ",
+   "c": "iPhone",
+   "t": "Lacrado",
+   "cs": [
+    {
+     "n": "Preto",
+     "h": "#1c1c1e",
+     "v": 4399.0
     }
    ]
   },
@@ -3378,20 +3071,6 @@ const DADOS = {
    "n": "iPhone 14 Pro Max 128GB",
    "f": "LBR Importados",
    "l": "Centro — Niterói/RJ",
-   "c": "iPhone",
-   "t": "Seminovo",
-   "cs": [
-    {
-     "n": "Roxo",
-     "h": "#7b6b9e",
-     "v": 3200.0
-    }
-   ]
-  },
-  {
-   "n": "iPhone 14 Pro Max 128GB",
-   "f": "Chiq Cell",
-   "l": "Bangu — RJ",
    "c": "iPhone",
    "t": "Seminovo",
    "cs": [
@@ -3417,25 +3096,6 @@ const DADOS = {
   },
   {
    "n": "iPhone 14 Pro Max 128GB",
-   "f": "Júnior",
-   "l": "Recreio — RJ",
-   "c": "iPhone",
-   "t": "Seminovo",
-   "cs": [
-    {
-     "n": "Roxo",
-     "h": "#7b6b9e",
-     "v": 3250.0
-    },
-    {
-     "n": "Preto",
-     "h": "#1c1c1e",
-     "v": 3250.0
-    }
-   ]
-  },
-  {
-   "n": "iPhone 14 Pro Max 128GB",
    "f": "Five Cell",
    "l": "Caxias — RJ",
    "c": "iPhone",
@@ -3445,11 +3105,25 @@ const DADOS = {
      "n": "Preto",
      "h": "#1c1c1e",
      "v": 3250.0
-    },
+    }
+   ]
+  },
+  {
+   "n": "iPhone 14 Pro Max 128GB",
+   "f": "Júnior",
+   "l": "Recreio — RJ",
+   "c": "iPhone",
+   "t": "Seminovo",
+   "cs": [
     {
      "n": "Roxo",
      "h": "#7b6b9e",
-     "v": 3250.0
+     "v": 3299.0
+    },
+    {
+     "n": "Preto",
+     "h": "#1c1c1e",
+     "v": 3299.0
     }
    ]
   },
@@ -3474,39 +3148,11 @@ const DADOS = {
      "n": "Gold",
      "h": "#f4e4b8",
      "v": 3349.99
-    }
-   ]
-  },
-  {
-   "n": "iPhone 14 Pro Max 128GB",
-   "f": "Revel",
-   "l": "Nova Iguaçu — RJ",
-   "c": "iPhone",
-   "t": "Seminovo",
-   "cs": [
-    {
-     "n": "Dourado",
-     "h": "#f4e4b8",
-     "v": 3350.0
-    }
-   ]
-  },
-  {
-   "n": "iPhone 14 Pro Max 128GB",
-   "f": "Quality",
-   "l": "Barra da Tijuca — RJ",
-   "c": "iPhone",
-   "t": "Seminovo",
-   "cs": [
+    },
     {
      "n": "Branco",
      "h": "#f5f5f0",
-     "v": 3999.0
-    },
-    {
-     "n": "Roxo",
-     "h": "#7b6b9e",
-     "v": 3999.0
+     "v": 3349.99
     }
    ]
   },
@@ -3542,30 +3188,11 @@ const DADOS = {
     {
      "n": "Roxo",
      "h": "#7b6b9e",
-     "v": 3399.0
-    },
-    {
-     "n": "Preto",
-     "h": "#1c1c1e",
-     "v": 3399.0
-    }
-   ]
-  },
-  {
-   "n": "iPhone 14 Pro Max 256GB",
-   "f": "Chiq Cell",
-   "l": "Bangu — RJ",
-   "c": "iPhone",
-   "t": "Seminovo",
-   "cs": [
-    {
-     "n": "Preto",
-     "h": "#1c1c1e",
      "v": 3450.0
     },
     {
-     "n": "Roxo",
-     "h": "#7b6b9e",
+     "n": "Preto",
+     "h": "#1c1c1e",
      "v": 3450.0
     }
    ]
@@ -3577,11 +3204,6 @@ const DADOS = {
    "c": "iPhone",
    "t": "Seminovo",
    "cs": [
-    {
-     "n": "Roxo",
-     "h": "#7b6b9e",
-     "v": 3500.0
-    },
     {
      "n": "Preto",
      "h": "#1c1c1e",
@@ -3599,6 +3221,11 @@ const DADOS = {
     {
      "n": "Preto",
      "h": "#1c1c1e",
+     "v": 3599.99
+    },
+    {
+     "n": "Branco",
+     "h": "#f5f5f0",
      "v": 3599.99
     },
     {
@@ -3619,7 +3246,7 @@ const DADOS = {
    "l": "Bangu — RJ",
    "c": "iPhone",
    "t": "Seminovo",
-   "v": 3570.0
+   "v": 3549.0
   },
   {
    "n": "iPhone 14 Pro Max 512GB",
@@ -3632,6 +3259,25 @@ const DADOS = {
      "n": "Preto",
      "h": "#1c1c1e",
      "v": 3799.0
+    }
+   ]
+  },
+  {
+   "n": "iPhone 15 128GB",
+   "f": "Quality",
+   "l": "Barra da Tijuca — RJ",
+   "c": "iPhone",
+   "t": "Lacrado",
+   "cs": [
+    {
+     "n": "Azul",
+     "h": "#2c4f8c",
+     "v": 3400.0
+    },
+    {
+     "n": "Preto",
+     "h": "#1c1c1e",
+     "v": 3850.0
     }
    ]
   },
@@ -3656,6 +3302,39 @@ const DADOS = {
   },
   {
    "n": "iPhone 15 128GB",
+   "f": "Cristiano",
+   "l": "Méier — RJ",
+   "c": "iPhone",
+   "t": "Lacrado",
+   "cs": [
+    {
+     "n": "Preto",
+     "h": "#1c1c1e",
+     "v": 3700.0
+    },
+    {
+     "n": "Azul",
+     "h": "#2c4f8c",
+     "v": 3700.0
+    }
+   ]
+  },
+  {
+   "n": "iPhone 15 128GB",
+   "f": "FMATA",
+   "l": "Centro — RJ",
+   "c": "iPhone",
+   "t": "Lacrado",
+   "cs": [
+    {
+     "n": "Black",
+     "h": "#1c1c1e",
+     "v": 3750.0
+    }
+   ]
+  },
+  {
+   "n": "iPhone 15 128GB",
    "f": "Júnior",
    "l": "Recreio — RJ",
    "c": "iPhone",
@@ -3670,39 +3349,6 @@ const DADOS = {
      "n": "Azul",
      "h": "#2c4f8c",
      "v": 3799.0
-    }
-   ]
-  },
-  {
-   "n": "iPhone 15 128GB",
-   "f": "MP Imports",
-   "l": "Campo Grande — RJ",
-   "c": "iPhone",
-   "t": "Lacrado",
-   "cs": [
-    {
-     "n": "Preto",
-     "h": "#1c1c1e",
-     "v": 3799.99
-    }
-   ]
-  },
-  {
-   "n": "iPhone 15 128GB",
-   "f": "Quality",
-   "l": "Barra da Tijuca — RJ",
-   "c": "iPhone",
-   "t": "Lacrado",
-   "cs": [
-    {
-     "n": "Azul",
-     "h": "#2c4f8c",
-     "v": 3800.0
-    },
-    {
-     "n": "Rosa",
-     "h": "#f4c2c2",
-     "v": 3850.0
     }
    ]
   },
@@ -3730,11 +3376,6 @@ const DADOS = {
     {
      "n": "Preto",
      "h": "#1c1c1e",
-     "v": 2650.0
-    },
-    {
-     "n": "Rosa",
-     "h": "#f4c2c2",
      "v": 2650.0
     }
    ]
@@ -3790,8 +3431,8 @@ const DADOS = {
      "v": 2850.0
     },
     {
-     "n": "Rosa",
-     "h": "#f4c2c2",
+     "n": "Azul",
+     "h": "#2c4f8c",
      "v": 2850.0
     }
    ]
@@ -3824,14 +3465,6 @@ const DADOS = {
      "v": 2850.0
     }
    ]
-  },
-  {
-   "n": "iPhone 15 128GB",
-   "f": "Davi/Fábio",
-   "l": "Bangu — RJ",
-   "c": "iPhone",
-   "t": "Seminovo",
-   "v": 2899.0
   },
   {
    "n": "iPhone 15 256GB",
@@ -3891,31 +3524,7 @@ const DADOS = {
     {
      "n": "Preto",
      "h": "#1c1c1e",
-     "v": 3150.0
-    }
-   ]
-  },
-  {
-   "n": "iPhone 15 Plus 128GB",
-   "f": "Chiq Cell",
-   "l": "Bangu — RJ",
-   "c": "iPhone",
-   "t": "Seminovo",
-   "cs": [
-    {
-     "n": "Rosa",
-     "h": "#f4c2c2",
-     "v": 2800.0
-    },
-    {
-     "n": "Verde",
-     "h": "#a7c4a0",
-     "v": 2800.0
-    },
-    {
-     "n": "Preto",
-     "h": "#1c1c1e",
-     "v": 2800.0
+     "v": 3199.0
     }
    ]
   },
@@ -3927,24 +3536,9 @@ const DADOS = {
    "t": "Seminovo",
    "cs": [
     {
-     "n": "Rosa",
-     "h": "#f4c2c2",
-     "v": 2800.0
-    },
-    {
      "n": "Preto",
      "h": "#1c1c1e",
-     "v": 2800.0
-    },
-    {
-     "n": "Azul",
-     "h": "#2c4f8c",
-     "v": 2800.0
-    },
-    {
-     "n": "Verde",
-     "h": "#a7c4a0",
-     "v": 2800.0
+     "v": 2750.0
     }
    ]
   },
@@ -4014,8 +3608,8 @@ const DADOS = {
    "t": "Seminovo",
    "cs": [
     {
-     "n": "Verde",
-     "h": "#a7c4a0",
+     "n": "Roxo",
+     "h": "#7b6b9e",
      "v": 3000.0
     },
     {
@@ -4065,14 +3659,6 @@ const DADOS = {
   },
   {
    "n": "iPhone 15 Pro 128GB",
-   "f": "Davi/Fábio",
-   "l": "Bangu — RJ",
-   "c": "iPhone",
-   "t": "Seminovo",
-   "v": 3290.0
-  },
-  {
-   "n": "iPhone 15 Pro 128GB",
    "f": "Júnior",
    "l": "Recreio — RJ",
    "c": "iPhone",
@@ -4097,17 +3683,11 @@ const DADOS = {
   },
   {
    "n": "iPhone 15 Pro 128GB",
-   "f": "Quality",
-   "l": "Barra da Tijuca — RJ",
+   "f": "Davi/Fábio",
+   "l": "Bangu — RJ",
    "c": "iPhone",
    "t": "Seminovo",
-   "cs": [
-    {
-     "n": "Preto",
-     "h": "#1c1c1e",
-     "v": 3399.0
-    }
-   ]
+   "v": 3399.0
   },
   {
    "n": "iPhone 15 Pro 128GB",
@@ -4124,6 +3704,11 @@ const DADOS = {
     {
      "n": "Branco",
      "h": "#f5f5f0",
+     "v": 3449.99
+    },
+    {
+     "n": "Preto",
+     "h": "#1c1c1e",
      "v": 3449.99
     }
    ]
@@ -4144,6 +3729,20 @@ const DADOS = {
   },
   {
    "n": "iPhone 15 Pro 256GB",
+   "f": "Chiq Cell",
+   "l": "Bangu — RJ",
+   "c": "iPhone",
+   "t": "Seminovo",
+   "cs": [
+    {
+     "n": "Azul",
+     "h": "#2c4f8c",
+     "v": 3300.0
+    }
+   ]
+  },
+  {
+   "n": "iPhone 15 Pro 256GB",
    "f": "Júnior",
    "l": "Recreio — RJ",
    "c": "iPhone",
@@ -4158,6 +3757,20 @@ const DADOS = {
   },
   {
    "n": "iPhone 15 Pro 256GB",
+   "f": "MP Imports",
+   "l": "Campo Grande — RJ",
+   "c": "iPhone",
+   "t": "Seminovo",
+   "cs": [
+    {
+     "n": "Azul",
+     "h": "#2c4f8c",
+     "v": 3599.99
+    }
+   ]
+  },
+  {
+   "n": "iPhone 15 Pro 256GB",
    "f": "Five Cell",
    "l": "Caxias — RJ",
    "c": "iPhone",
@@ -4167,25 +3780,6 @@ const DADOS = {
      "n": "Azul",
      "h": "#2c4f8c",
      "v": 3600.0
-    },
-    {
-     "n": "Preto",
-     "h": "#1c1c1e",
-     "v": 3600.0
-    }
-   ]
-  },
-  {
-   "n": "iPhone 15 Pro 256GB",
-   "f": "MP Imports",
-   "l": "Campo Grande — RJ",
-   "c": "iPhone",
-   "t": "Seminovo",
-   "cs": [
-    {
-     "n": "Azul",
-     "h": "#2c4f8c",
-     "v": 3649.99
     }
    ]
   },
@@ -4205,6 +3799,59 @@ const DADOS = {
   },
   {
    "n": "iPhone 15 Pro Max 256GB",
+   "f": "MP Imports",
+   "l": "Campo Grande — RJ",
+   "c": "iPhone",
+   "t": "Lacrado",
+   "cs": [
+    {
+     "n": "Preto",
+     "h": "#1c1c1e",
+     "v": 5299.99
+    },
+    {
+     "n": "Branco",
+     "h": "#f5f5f0",
+     "v": 5299.99
+    },
+    {
+     "n": "Natural",
+     "h": "#d6cfc4",
+     "v": 5299.99
+    }
+   ]
+  },
+  {
+   "n": "iPhone 15 Pro Max 256GB",
+   "f": "Cristiano",
+   "l": "Méier — RJ",
+   "c": "iPhone",
+   "t": "Lacrado",
+   "cs": [
+    {
+     "n": "Azul",
+     "h": "#2c4f8c",
+     "v": 5350.0
+    },
+    {
+     "n": "Natural",
+     "h": "#d6cfc4",
+     "v": 5350.0
+    },
+    {
+     "n": "Preto",
+     "h": "#1c1c1e",
+     "v": 5350.0
+    },
+    {
+     "n": "Branco",
+     "h": "#f5f5f0",
+     "v": 5350.0
+    }
+   ]
+  },
+  {
+   "n": "iPhone 15 Pro Max 256GB",
    "f": "Quality",
    "l": "Barra da Tijuca — RJ",
    "c": "iPhone",
@@ -4240,24 +3887,11 @@ const DADOS = {
    "t": "Seminovo",
    "cs": [
     {
-     "n": "Preto",
-     "h": "#1c1c1e",
-     "v": 3900.0
-    },
-    {
      "n": "Azul",
      "h": "#2c4f8c",
      "v": 3900.0
     }
    ]
-  },
-  {
-   "n": "iPhone 15 Pro Max 256GB",
-   "f": "Davi/Fábio",
-   "l": "Bangu — RJ",
-   "c": "iPhone",
-   "t": "Seminovo",
-   "v": 3990.0
   },
   {
    "n": "iPhone 15 Pro Max 256GB",
@@ -4270,11 +3904,20 @@ const DADOS = {
      "n": "Preto",
      "h": "#1c1c1e",
      "v": 3999.0
-    },
+    }
+   ]
+  },
+  {
+   "n": "iPhone 15 Pro Max 256GB",
+   "f": "Revel",
+   "l": "Nova Iguaçu — RJ",
+   "c": "iPhone",
+   "t": "Seminovo",
+   "cs": [
     {
      "n": "Azul",
      "h": "#2c4f8c",
-     "v": 3999.0
+     "v": 3999.99
     }
    ]
   },
@@ -4313,8 +3956,21 @@ const DADOS = {
      "n": "Preto",
      "h": "#1c1c1e",
      "v": 4050.0
+    },
+    {
+     "n": "Branco",
+     "h": "#f5f5f0",
+     "v": 4050.0
     }
    ]
+  },
+  {
+   "n": "iPhone 15 Pro Max 256GB",
+   "f": "Davi/Fábio",
+   "l": "Bangu — RJ",
+   "c": "iPhone",
+   "t": "Seminovo",
+   "v": 4099.0
   },
   {
    "n": "iPhone 15 Pro Max 256GB",
@@ -4361,6 +4017,11 @@ const DADOS = {
      "n": "Branco",
      "h": "#f5f5f0",
      "v": 4250.0
+    },
+    {
+     "n": "Preto",
+     "h": "#1c1c1e",
+     "v": 4250.0
     }
    ]
   },
@@ -4372,24 +4033,11 @@ const DADOS = {
    "t": "Seminovo",
    "cs": [
     {
-     "n": "Preto",
-     "h": "#1c1c1e",
-     "v": 4150.0
-    },
-    {
      "n": "Azul",
      "h": "#2c4f8c",
      "v": 4150.0
     }
    ]
-  },
-  {
-   "n": "iPhone 15 Pro Max 512GB",
-   "f": "Davi/Fábio",
-   "l": "Bangu — RJ",
-   "c": "iPhone",
-   "t": "Seminovo",
-   "v": 4190.0
   },
   {
    "n": "iPhone 15 Pro Max 512GB",
@@ -4417,17 +4065,11 @@ const DADOS = {
   },
   {
    "n": "iPhone 15 Pro Max 512GB",
-   "f": "Revel",
-   "l": "Nova Iguaçu — RJ",
+   "f": "Davi/Fábio",
+   "l": "Bangu — RJ",
    "c": "iPhone",
    "t": "Seminovo",
-   "cs": [
-    {
-     "n": "Azul",
-     "h": "#2c4f8c",
-     "v": 4250.0
-    }
-   ]
+   "v": 4349.0
   },
   {
    "n": "iPhone 15 Pro Max 512GB",
@@ -4445,37 +4087,23 @@ const DADOS = {
   },
   {
    "n": "iPhone 16 128GB",
-   "f": "LBR Importados",
-   "l": "Centro — Niterói/RJ",
+   "f": "Cristiano",
+   "l": "Méier — RJ",
    "c": "iPhone",
    "t": "Lacrado",
    "cs": [
+    {
+     "n": "Branco",
+     "h": "#f5f5f0",
+     "v": 4000.0
+    },
     {
      "n": "Preto",
      "h": "#1c1c1e",
-     "v": 4050.0
-    }
-   ]
-  },
-  {
-   "n": "iPhone 16 128GB",
-   "f": "FMATA",
-   "l": "Centro — RJ",
-   "c": "iPhone",
-   "t": "Lacrado",
-   "cs": [
-    {
-     "n": "Black",
-     "h": "#1c1c1e",
      "v": 4150.0
     },
     {
-     "n": "Ultramarine",
-     "h": "#3a4ba0",
-     "v": 4150.0
-    },
-    {
-     "n": "Steal",
+     "n": "Verde",
      "h": "#a7c4a0",
      "v": 4150.0
     }
@@ -4483,68 +4111,25 @@ const DADOS = {
   },
   {
    "n": "iPhone 16 128GB",
-   "f": "MP Imports",
-   "l": "Campo Grande — RJ",
-   "c": "iPhone",
-   "t": "Lacrado",
-   "cs": [
-    {
-     "n": "Preto",
-     "h": "#1c1c1e",
-     "v": 4199.99
-    },
-    {
-     "n": "Azul",
-     "h": "#2c4f8c",
-     "v": 4199.99
-    },
-    {
-     "n": "Rosa",
-     "h": "#f4c2c2",
-     "v": 4249.99
-    },
-    {
-     "n": "Branco",
-     "h": "#f5f5f0",
-     "v": 4249.99
-    }
-   ]
-  },
-  {
-   "n": "iPhone 16 128GB",
-   "f": "Quality",
-   "l": "Barra da Tijuca — RJ",
+   "f": "Revel",
+   "l": "Nova Iguaçu — RJ",
    "c": "iPhone",
    "t": "Lacrado",
    "cs": [
     {
      "n": "Azul",
      "h": "#2c4f8c",
-     "v": 4250.0
+     "v": 4179.99
     },
     {
      "n": "Preto",
      "h": "#1c1c1e",
-     "v": 4250.0
+     "v": 4179.99
     },
     {
      "n": "Branco",
      "h": "#f5f5f0",
-     "v": 4300.0
-    }
-   ]
-  },
-  {
-   "n": "iPhone 16 128GB",
-   "f": "Five Cell",
-   "l": "Caxias — RJ",
-   "c": "iPhone",
-   "t": "Lacrado",
-   "cs": [
-    {
-     "n": "Rosa",
-     "h": "#f4c2c2",
-     "v": 4250.0
+     "v": 4249.99
     }
    ]
   },
@@ -4568,7 +4153,50 @@ const DADOS = {
     {
      "n": "Branco",
      "h": "#f5f5f0",
-     "v": 4350.0
+     "v": 4399.0
+    }
+   ]
+  },
+  {
+   "n": "iPhone 16 128GB",
+   "f": "Quality",
+   "l": "Barra da Tijuca — RJ",
+   "c": "iPhone",
+   "t": "Lacrado",
+   "cs": [
+    {
+     "n": "Azul",
+     "h": "#2c4f8c",
+     "v": 4299.0
+    },
+    {
+     "n": "Branco",
+     "h": "#f5f5f0",
+     "v": 4299.0
+    }
+   ]
+  },
+  {
+   "n": "iPhone 16 128GB",
+   "f": "MP Imports",
+   "l": "Campo Grande — RJ",
+   "c": "iPhone",
+   "t": "Lacrado",
+   "cs": [
+    {
+     "n": "Preto",
+     "h": "#1c1c1e",
+     "v": 4299.99
+    },
+    {
+     "n": "Azul",
+     "h": "#2c4f8c",
+     "v": 4299.99
+    },
+    {
+     "n": "Branco",
+     "h": "#f5f5f0",
+     "v": 4399.99
     }
    ]
   },
@@ -4598,52 +4226,14 @@ const DADOS = {
   },
   {
    "n": "iPhone 16 128GB",
-   "f": "Chiq Cell",
-   "l": "Bangu — RJ",
+   "f": "Quality",
+   "l": "Barra da Tijuca — RJ",
    "c": "iPhone",
    "t": "Seminovo",
    "cs": [
     {
-     "n": "Preto",
-     "h": "#1c1c1e",
-     "v": 3600.0
-    }
-   ]
-  },
-  {
-   "n": "iPhone 16 128GB",
-   "f": "M Apple",
-   "l": "Campo Grande — RJ",
-   "c": "iPhone",
-   "t": "Seminovo",
-   "cs": [
-    {
-     "n": "Ultramarine",
-     "h": "#3a4ba0",
-     "v": 3600.0
-    }
-   ]
-  },
-  {
-   "n": "iPhone 16 128GB",
-   "f": "Five Cell",
-   "l": "Caxias — RJ",
-   "c": "iPhone",
-   "t": "Seminovo",
-   "cs": [
-    {
-     "n": "Rosa",
-     "h": "#f4c2c2",
-     "v": 3600.0
-    },
-    {
-     "n": "Azul",
-     "h": "#2c4f8c",
-     "v": 3600.0
-    },
-    {
-     "n": "Verde",
-     "h": "#a7c4a0",
+     "n": "Branco",
+     "h": "#f5f5f0",
      "v": 3600.0
     }
    ]
@@ -4664,6 +4254,25 @@ const DADOS = {
   },
   {
    "n": "iPhone 16 128GB",
+   "f": "LBR Importados",
+   "l": "Centro — Niterói/RJ",
+   "c": "iPhone",
+   "t": "Seminovo",
+   "cs": [
+    {
+     "n": "Preto",
+     "h": "#1c1c1e",
+     "v": 3700.0
+    },
+    {
+     "n": "Branco",
+     "h": "#f5f5f0",
+     "v": 3700.0
+    }
+   ]
+  },
+  {
+   "n": "iPhone 16 128GB",
    "f": "MP Imports",
    "l": "Campo Grande — RJ",
    "c": "iPhone",
@@ -4693,30 +4302,6 @@ const DADOS = {
   },
   {
    "n": "iPhone 16 128GB",
-   "f": "LBR Importados",
-   "l": "Centro — Niterói/RJ",
-   "c": "iPhone",
-   "t": "Seminovo",
-   "cs": [
-    {
-     "n": "Preto",
-     "h": "#1c1c1e",
-     "v": 3750.0
-    },
-    {
-     "n": "Branco",
-     "h": "#f5f5f0",
-     "v": 3750.0
-    },
-    {
-     "n": "Azul",
-     "h": "#2c4f8c",
-     "v": 3750.0
-    }
-   ]
-  },
-  {
-   "n": "iPhone 16 128GB",
    "f": "Davi/Fábio",
    "l": "Bangu — RJ",
    "c": "iPhone",
@@ -4724,31 +4309,16 @@ const DADOS = {
    "v": 3849.0
   },
   {
-   "n": "iPhone 16 128GB",
+   "n": "iPhone 16 256GB",
    "f": "Quality",
    "l": "Barra da Tijuca — RJ",
    "c": "iPhone",
-   "t": "Seminovo",
+   "t": "Lacrado",
    "cs": [
     {
      "n": "Preto",
      "h": "#1c1c1e",
-     "v": 3850.0
-    },
-    {
-     "n": "Branco",
-     "h": "#f5f5f0",
-     "v": 3850.0
-    },
-    {
-     "n": "Rosa",
-     "h": "#f4c2c2",
-     "v": 3850.0
-    },
-    {
-     "n": "Azul",
-     "h": "#2c4f8c",
-     "v": 3850.0
+     "v": 4850.0
     }
    ]
   },
@@ -4762,31 +4332,7 @@ const DADOS = {
     {
      "n": "Preto",
      "h": "#1c1c1e",
-     "v": 3800.0
-    }
-   ]
-  },
-  {
-   "n": "iPhone 16 256GB",
-   "f": "Five Cell",
-   "l": "Caxias — RJ",
-   "c": "iPhone",
-   "t": "Seminovo",
-   "cs": [
-    {
-     "n": "Preto",
-     "h": "#1c1c1e",
-     "v": 3800.0
-    },
-    {
-     "n": "Azul",
-     "h": "#2c4f8c",
-     "v": 3800.0
-    },
-    {
-     "n": "Branco",
-     "h": "#f5f5f0",
-     "v": 3800.0
+     "v": 3700.0
     }
    ]
   },
@@ -4806,30 +4352,65 @@ const DADOS = {
   },
   {
    "n": "iPhone 16 Plus 128GB",
+   "f": "Júnior",
+   "l": "Recreio — RJ",
+   "c": "iPhone",
+   "t": "Lacrado",
+   "cs": [
+    {
+     "n": "Rosa",
+     "h": "#f4c2c2",
+     "v": 5050.0
+    },
+    {
+     "n": "Preto",
+     "h": "#1c1c1e",
+     "v": 4999.0
+    }
+   ]
+  },
+  {
+   "n": "iPhone 16 Plus 128GB",
+   "f": "Cristiano",
+   "l": "Méier — RJ",
+   "c": "iPhone",
+   "t": "Lacrado",
+   "cs": [
+    {
+     "n": "Azul",
+     "h": "#2c4f8c",
+     "v": 5000.0
+    },
+    {
+     "n": "Rosa",
+     "h": "#f4c2c2",
+     "v": 5000.0
+    },
+    {
+     "n": "Preto",
+     "h": "#1c1c1e",
+     "v": 5000.0
+    }
+   ]
+  },
+  {
+   "n": "iPhone 16 Plus 128GB",
    "f": "Quality",
    "l": "Barra da Tijuca — RJ",
    "c": "iPhone",
    "t": "Lacrado",
    "cs": [
     {
-     "n": "Preto",
-     "h": "#1c1c1e",
-     "v": 5100.0
-    },
-    {
      "n": "Rosa",
      "h": "#f4c2c2",
      "v": 5150.0
+    },
+    {
+     "n": "Azul",
+     "h": "#2c4f8c",
+     "v": 5150.0
     }
    ]
-  },
-  {
-   "n": "iPhone 16 Plus 128GB",
-   "f": "Davi/Fábio",
-   "l": "Bangu — RJ",
-   "c": "iPhone",
-   "t": "Seminovo",
-   "v": 3640.0
   },
   {
    "n": "iPhone 16 Plus 128GB",
@@ -4839,11 +4420,6 @@ const DADOS = {
    "t": "Seminovo",
    "cs": [
     {
-     "n": "Preto",
-     "h": "#1c1c1e",
-     "v": 3700.0
-    },
-    {
      "n": "Rosa",
      "h": "#f4c2c2",
      "v": 3700.0
@@ -4852,15 +4428,67 @@ const DADOS = {
   },
   {
    "n": "iPhone 16 Plus 128GB",
-   "f": "LBR Importados",
-   "l": "Centro — Niterói/RJ",
+   "f": "Davi/Fábio",
+   "l": "Bangu — RJ",
+   "c": "iPhone",
+   "t": "Seminovo",
+   "v": 3890.0
+  },
+  {
+   "n": "iPhone 16 Plus 128GB",
+   "f": "MP Imports",
+   "l": "Campo Grande — RJ",
    "c": "iPhone",
    "t": "Seminovo",
    "cs": [
     {
+     "n": "Azul",
+     "h": "#2c4f8c",
+     "v": 3899.99
+    },
+    {
+     "n": "Branco",
+     "h": "#f5f5f0",
+     "v": 3899.99
+    },
+    {
+     "n": "Preto",
+     "h": "#1c1c1e",
+     "v": 3899.99
+    },
+    {
      "n": "Rosa",
      "h": "#f4c2c2",
-     "v": 3950.0
+     "v": 3899.99
+    }
+   ]
+  },
+  {
+   "n": "iPhone 16 Pro 128GB",
+   "f": "Cristiano",
+   "l": "Méier — RJ",
+   "c": "iPhone",
+   "t": "Lacrado",
+   "cs": [
+    {
+     "n": "Preto",
+     "h": "#1c1c1e",
+     "v": 5000.0
+    },
+    {
+     "n": "Branco",
+     "h": "#f5f5f0",
+     "v": 5000.0
+    },
+    {
+     "n": "Natural",
+     "h": "#d6cfc4",
+     "v": 5000.0
+    },
+    {
+     "n": "Desert",
+     "h": "#e8cfa9",
+     "v": 5000.0
     }
    ]
   },
@@ -4874,36 +4502,22 @@ const DADOS = {
     {
      "n": "Preto",
      "h": "#1c1c1e",
-     "v": 5150.0
+     "v": 5250.0
     },
     {
      "n": "Branco",
      "h": "#f5f5f0",
-     "v": 5150.0
+     "v": 5250.0
     },
     {
      "n": "Natural",
      "h": "#d6cfc4",
-     "v": 5150.0
+     "v": 5250.0
     },
     {
      "n": "Desert",
      "h": "#e8cfa9",
-     "v": 5150.0
-    }
-   ]
-  },
-  {
-   "n": "iPhone 16 Pro 128GB",
-   "f": "MP Imports",
-   "l": "Campo Grande — RJ",
-   "c": "iPhone",
-   "t": "Lacrado",
-   "cs": [
-    {
-     "n": "Desert",
-     "h": "#e8cfa9",
-     "v": 5399.99
+     "v": 5250.0
     }
    ]
   },
@@ -4923,11 +4537,31 @@ const DADOS = {
   },
   {
    "n": "iPhone 16 Pro 128GB",
-   "f": "Davi/Fábio",
-   "l": "Bangu — RJ",
+   "f": "MP Imports",
+   "l": "Campo Grande — RJ",
+   "c": "iPhone",
+   "t": "Lacrado",
+   "cs": [
+    {
+     "n": "Desert",
+     "h": "#e8cfa9",
+     "v": 5549.99
+    }
+   ]
+  },
+  {
+   "n": "iPhone 16 Pro 128GB",
+   "f": "Quality",
+   "l": "Barra da Tijuca — RJ",
    "c": "iPhone",
    "t": "Seminovo",
-   "v": 4099.0
+   "cs": [
+    {
+     "n": "Desert",
+     "h": "#e8cfa9",
+     "v": 3999.0
+    }
+   ]
   },
   {
    "n": "iPhone 16 Pro 128GB",
@@ -4937,40 +4571,38 @@ const DADOS = {
    "t": "Seminovo",
    "cs": [
     {
-     "n": "Desert",
-     "h": "#e8cfa9",
-     "v": 4100.0
-    },
-    {
      "n": "Branco",
      "h": "#f5f5f0",
-     "v": 4100.0
-    },
-    {
-     "n": "Preto",
-     "h": "#1c1c1e",
      "v": 4100.0
     }
    ]
   },
   {
    "n": "iPhone 16 Pro 128GB",
-   "f": "Five Cell",
-   "l": "Caxias — RJ",
+   "f": "Chiq Cell",
+   "l": "Bangu — RJ",
    "c": "iPhone",
    "t": "Seminovo",
    "cs": [
     {
-     "n": "Preto",
-     "h": "#1c1c1e",
-     "v": 4250.0
-    },
-    {
      "n": "Desert",
      "h": "#e8cfa9",
-     "v": 4250.0
+     "v": 4150.0
+    },
+    {
+     "n": "Preto",
+     "h": "#1c1c1e",
+     "v": 4150.0
     }
    ]
+  },
+  {
+   "n": "iPhone 16 Pro 128GB",
+   "f": "Davi/Fábio",
+   "l": "Bangu — RJ",
+   "c": "iPhone",
+   "t": "Seminovo",
+   "v": 4349.0
   },
   {
    "n": "iPhone 16 Pro 128GB",
@@ -5012,20 +4644,6 @@ const DADOS = {
   },
   {
    "n": "iPhone 16 Pro 128GB",
-   "f": "Quality",
-   "l": "Barra da Tijuca — RJ",
-   "c": "iPhone",
-   "t": "Seminovo",
-   "cs": [
-    {
-     "n": "Desert",
-     "h": "#e8cfa9",
-     "v": 4499.0
-    }
-   ]
-  },
-  {
-   "n": "iPhone 16 Pro 128GB",
    "f": "Júnior",
    "l": "Recreio — RJ",
    "c": "iPhone",
@@ -5064,35 +4682,6 @@ const DADOS = {
      "n": "Black",
      "h": "#1c1c1e",
      "v": 4499.0
-    },
-    {
-     "n": "Natural",
-     "h": "#d6cfc4",
-     "v": 4499.0
-    }
-   ]
-  },
-  {
-   "n": "iPhone 16 Pro 256GB",
-   "f": "Five Cell",
-   "l": "Caxias — RJ",
-   "c": "iPhone",
-   "t": "Seminovo",
-   "cs": [
-    {
-     "n": "Natural",
-     "h": "#d6cfc4",
-     "v": 4500.0
-    },
-    {
-     "n": "Desert",
-     "h": "#e8cfa9",
-     "v": 4500.0
-    },
-    {
-     "n": "Branco",
-     "h": "#f5f5f0",
-     "v": 4500.0
     }
    ]
   },
@@ -5106,7 +4695,31 @@ const DADOS = {
     {
      "n": "Branco",
      "h": "#f5f5f0",
-     "v": 4550.0
+     "v": 4500.0
+    },
+    {
+     "n": "Natural",
+     "h": "#d6cfc4",
+     "v": 4500.0
+    },
+    {
+     "n": "Desert",
+     "h": "#e8cfa9",
+     "v": 4500.0
+    }
+   ]
+  },
+  {
+   "n": "iPhone 16 Pro 256GB",
+   "f": "Five Cell",
+   "l": "Caxias — RJ",
+   "c": "iPhone",
+   "t": "Seminovo",
+   "cs": [
+    {
+     "n": "Branco",
+     "h": "#f5f5f0",
+     "v": 4500.0
     }
    ]
   },
@@ -5125,26 +4738,26 @@ const DADOS = {
    ]
   },
   {
-   "n": "iPhone 16 Pro 512GB",
-   "f": "M Apple",
-   "l": "Campo Grande — RJ",
+   "n": "iPhone 16 Pro Max 256GB",
+   "f": "Cristiano",
+   "l": "Méier — RJ",
    "c": "iPhone",
-   "t": "Seminovo",
+   "t": "Lacrado",
    "cs": [
-    {
-     "n": "Desert",
-     "h": "#e8cfa9",
-     "v": 4500.0
-    },
     {
      "n": "Branco",
      "h": "#f5f5f0",
-     "v": 4500.0
+     "v": 6200.0
     },
     {
      "n": "Preto",
      "h": "#1c1c1e",
-     "v": 4500.0
+     "v": 6200.0
+    },
+    {
+     "n": "Desert",
+     "h": "#e8cfa9",
+     "v": 6400.0
     }
    ]
   },
@@ -5156,13 +4769,13 @@ const DADOS = {
    "t": "Lacrado",
    "cs": [
     {
-     "n": "Preto",
-     "h": "#1c1c1e",
+     "n": "Branco",
+     "h": "#f5f5f0",
      "v": 6350.0
     },
     {
-     "n": "Branco",
-     "h": "#f5f5f0",
+     "n": "Preto",
+     "h": "#1c1c1e",
      "v": 6350.0
     },
     {
@@ -5207,11 +4820,27 @@ const DADOS = {
   },
   {
    "n": "iPhone 16 Pro Max 256GB",
-   "f": "Davi/Fábio",
+   "f": "Chiq Cell",
    "l": "Bangu — RJ",
    "c": "iPhone",
    "t": "Seminovo",
-   "v": 4990.0
+   "cs": [
+    {
+     "n": "Natural",
+     "h": "#d6cfc4",
+     "v": 5000.0
+    },
+    {
+     "n": "Preto",
+     "h": "#1c1c1e",
+     "v": 5000.0
+    },
+    {
+     "n": "Desert",
+     "h": "#e8cfa9",
+     "v": 5000.0
+    }
+   ]
   },
   {
    "n": "iPhone 16 Pro Max 256GB",
@@ -5221,8 +4850,8 @@ const DADOS = {
    "t": "Seminovo",
    "cs": [
     {
-     "n": "Desert",
-     "h": "#e8cfa9",
+     "n": "Laranja",
+     "h": "#e8863f",
      "v": 5000.0
     }
    ]
@@ -5243,13 +4872,16 @@ const DADOS = {
      "n": "Preto",
      "h": "#1c1c1e",
      "v": 5050.0
-    },
-    {
-     "n": "Branco",
-     "h": "#f5f5f0",
-     "v": 5050.0
     }
    ]
+  },
+  {
+   "n": "iPhone 16 Pro Max 256GB",
+   "f": "Davi/Fábio",
+   "l": "Bangu — RJ",
+   "c": "iPhone",
+   "t": "Seminovo",
+   "v": 5099.0
   },
   {
    "n": "iPhone 16 Pro Max 256GB",
@@ -5267,14 +4899,24 @@ const DADOS = {
   },
   {
    "n": "iPhone 16 Pro Max 256GB",
-   "f": "Chiq Cell",
-   "l": "Bangu — RJ",
+   "f": "LBR Importados",
+   "l": "Centro — Niterói/RJ",
    "c": "iPhone",
    "t": "Seminovo",
    "cs": [
     {
      "n": "Preto",
      "h": "#1c1c1e",
+     "v": 5100.0
+    },
+    {
+     "n": "Natural",
+     "h": "#d6cfc4",
+     "v": 5100.0
+    },
+    {
+     "n": "Branco",
+     "h": "#f5f5f0",
      "v": 5100.0
     }
    ]
@@ -5289,12 +4931,12 @@ const DADOS = {
     {
      "n": "Desert",
      "h": "#e8cfa9",
-     "v": 5199.0
+     "v": 5150.0
     },
     {
-     "n": "Branco",
-     "h": "#f5f5f0",
-     "v": 5199.0
+     "n": "Preto",
+     "h": "#1c1c1e",
+     "v": 5150.0
     }
    ]
   },
@@ -5324,30 +4966,6 @@ const DADOS = {
      "n": "Natural",
      "h": "#d6cfc4",
      "v": 5199.0
-    }
-   ]
-  },
-  {
-   "n": "iPhone 16 Pro Max 256GB",
-   "f": "LBR Importados",
-   "l": "Centro — Niterói/RJ",
-   "c": "iPhone",
-   "t": "Seminovo",
-   "cs": [
-    {
-     "n": "Preto",
-     "h": "#1c1c1e",
-     "v": 5200.0
-    },
-    {
-     "n": "Natural",
-     "h": "#d6cfc4",
-     "v": 5200.0
-    },
-    {
-     "n": "Branco",
-     "h": "#f5f5f0",
-     "v": 5200.0
     }
    ]
   },
@@ -5388,14 +5006,9 @@ const DADOS = {
    "t": "Seminovo",
    "cs": [
     {
-     "n": "Desert",
-     "h": "#e8cfa9",
-     "v": 5300.0
-    },
-    {
      "n": "Natural",
      "h": "#d6cfc4",
-     "v": 5300.0
+     "v": 5200.0
     },
     {
      "n": "Preto",
@@ -5413,20 +5026,6 @@ const DADOS = {
    "v": 5449.0
   },
   {
-   "n": "iPhone 16 Pro Max 512GB",
-   "f": "MP Imports",
-   "l": "Campo Grande — RJ",
-   "c": "iPhone",
-   "t": "Seminovo",
-   "cs": [
-    {
-     "n": "Desert",
-     "h": "#e8cfa9",
-     "v": 5549.99
-    }
-   ]
-  },
-  {
    "n": "iPhone 16e 128GB",
    "f": "Júnior",
    "l": "Recreio — RJ",
@@ -5450,40 +5049,17 @@ const DADOS = {
    "f": "Quality",
    "l": "Barra da Tijuca — RJ",
    "c": "iPhone",
-   "t": "Lacrado",
-   "cs": [
-    {
-     "n": "Branco",
-     "h": "#f5f5f0",
-     "v": 3350.0
-    }
-   ]
-  },
-  {
-   "n": "iPhone 16e 128GB",
-   "f": "Quality",
-   "l": "Barra da Tijuca — RJ",
-   "c": "iPhone",
    "t": "Seminovo",
    "cs": [
     {
      "n": "Preto",
      "h": "#1c1c1e",
-     "v": 2650.0
-    }
-   ]
-  },
-  {
-   "n": "iPhone 17 256GB",
-   "f": "Júnior",
-   "l": "Recreio — RJ",
-   "c": "iPhone",
-   "t": "Lacrado",
-   "cs": [
+     "v": 3000.0
+    },
     {
-     "n": "Lavanda",
-     "h": "#b9afd4",
-     "v": 4999.0
+     "n": "Branco",
+     "h": "#f5f5f0",
+     "v": 3000.0
     }
    ]
   },
@@ -5497,51 +5073,80 @@ const DADOS = {
     {
      "n": "Blue",
      "h": "#2c4f8c",
-     "v": 5000.0
+     "v": 5100.0
     },
     {
      "n": "White",
      "h": "#f5f5f0",
-     "v": 5000.0
+     "v": 5100.0
     },
     {
      "n": "Black",
      "h": "#1c1c1e",
-     "v": 5000.0
+     "v": 5100.0
+    },
+    {
+     "n": "Green",
+     "h": "#a7c4a0",
+     "v": 5100.0
     }
    ]
   },
   {
    "n": "iPhone 17 256GB",
-   "f": "Five Cell",
-   "l": "Caxias — RJ",
+   "f": "Cristiano",
+   "l": "Méier — RJ",
    "c": "iPhone",
    "t": "Lacrado",
    "cs": [
     {
-     "n": "Preto",
-     "h": "#1c1c1e",
-     "v": 5050.0
+     "n": "Verde",
+     "h": "#a7c4a0",
+     "v": 5100.0
     },
     {
      "n": "Azul",
      "h": "#2c4f8c",
-     "v": 5050.0
+     "v": 5100.0
+    },
+    {
+     "n": "Preto",
+     "h": "#1c1c1e",
+     "v": 5150.0
     },
     {
      "n": "Branco",
      "h": "#f5f5f0",
-     "v": 5050.0
+     "v": 5150.0
     },
     {
-     "n": "Verde",
-     "h": "#a7c4a0",
-     "v": 5050.0
-    },
+     "n": "Lavanda",
+     "h": "#b9afd4",
+     "v": 5200.0
+    }
+   ]
+  },
+  {
+   "n": "iPhone 17 256GB",
+   "f": "Revel",
+   "l": "Nova Iguaçu — RJ",
+   "c": "iPhone",
+   "t": "Lacrado",
+   "cs": [
     {
-     "n": "Lilás",
+     "n": "Roxo",
      "h": "#7b6b9e",
-     "v": 5050.0
+     "v": 5199.99
+    },
+    {
+     "n": "Branco",
+     "h": "#f5f5f0",
+     "v": 5199.99
+    },
+    {
+     "n": "Preto",
+     "h": "#1c1c1e",
+     "v": 5199.99
     }
    ]
   },
@@ -5555,22 +5160,51 @@ const DADOS = {
     {
      "n": "Branco",
      "h": "#f5f5f0",
-     "v": 5099.99
+     "v": 5249.99
     },
     {
      "n": "Preto",
      "h": "#1c1c1e",
-     "v": 5099.99
+     "v": 5249.99
     },
     {
      "n": "Azul",
      "h": "#2c4f8c",
-     "v": 5099.99
+     "v": 5249.99
     },
     {
      "n": "Lavanda",
      "h": "#b9afd4",
-     "v": 5149.99
+     "v": 5349.99
+    }
+   ]
+  },
+  {
+   "n": "iPhone 17 256GB",
+   "f": "Five Cell",
+   "l": "Caxias — RJ",
+   "c": "iPhone",
+   "t": "Lacrado",
+   "cs": [
+    {
+     "n": "Lavanda",
+     "h": "#b9afd4",
+     "v": 5300.0
+    },
+    {
+     "n": "Preto",
+     "h": "#1c1c1e",
+     "v": 5300.0
+    },
+    {
+     "n": "Branco",
+     "h": "#f5f5f0",
+     "v": 5300.0
+    },
+    {
+     "n": "Verde",
+     "h": "#a7c4a0",
+     "v": 5300.0
     }
    ]
   },
@@ -5599,12 +5233,40 @@ const DADOS = {
     {
      "n": "Verde",
      "h": "#a7c4a0",
-     "v": 5550.0
-    },
+     "v": 5300.0
+    }
+   ]
+  },
+  {
+   "n": "iPhone 17 256GB",
+   "f": "Júnior",
+   "l": "Recreio — RJ",
+   "c": "iPhone",
+   "t": "Lacrado",
+   "cs": [
     {
      "n": "Azul",
      "h": "#2c4f8c",
-     "v": 5550.0
+     "v": 5350.0
+    },
+    {
+     "n": "Lavanda",
+     "h": "#b9afd4",
+     "v": 5399.0
+    }
+   ]
+  },
+  {
+   "n": "iPhone 17 512GB",
+   "f": "Cristiano",
+   "l": "Méier — RJ",
+   "c": "iPhone",
+   "t": "Lacrado",
+   "cs": [
+    {
+     "n": "Branco",
+     "h": "#f5f5f0",
+     "v": 6300.0
     }
    ]
   },
@@ -5632,12 +5294,26 @@ const DADOS = {
     {
      "n": "Gold",
      "h": "#f4e4b8",
-     "v": 5399.0
+     "v": 5499.0
     },
     {
      "n": "Branco",
      "h": "#f5f5f0",
-     "v": 5450.0
+     "v": 5550.0
+    }
+   ]
+  },
+  {
+   "n": "iPhone 17 Air 256GB",
+   "f": "Cristiano",
+   "l": "Méier — RJ",
+   "c": "iPhone",
+   "t": "Lacrado",
+   "cs": [
+    {
+     "n": "Preto",
+     "h": "#1c1c1e",
+     "v": 5500.0
     }
    ]
   },
@@ -5654,14 +5330,23 @@ const DADOS = {
      "v": 5549.99
     },
     {
-     "n": "Gold",
-     "h": "#f4e4b8",
-     "v": 5549.99
-    },
+     "n": "Branco",
+     "h": "#f5f5f0",
+     "v": 5599.99
+    }
+   ]
+  },
+  {
+   "n": "iPhone 17 Air 256GB",
+   "f": "Real Comércio",
+   "l": "Centro — RJ",
+   "c": "iPhone",
+   "t": "Lacrado",
+   "cs": [
     {
-     "n": "Preto",
-     "h": "#1c1c1e",
-     "v": 5549.99
+     "n": "Branco",
+     "h": "#f5f5f0",
+     "v": 5620.0
     }
    ]
   },
@@ -5685,16 +5370,16 @@ const DADOS = {
    ]
   },
   {
-   "n": "iPhone 17 Air 256GB",
-   "f": "Real Comércio",
-   "l": "Centro — RJ",
+   "n": "iPhone 17 Pro 1TB",
+   "f": "Five Cell",
+   "l": "Caxias — RJ",
    "c": "iPhone",
    "t": "Lacrado",
    "cs": [
     {
-     "n": "Branco",
-     "h": "#f5f5f0",
-     "v": 5700.0
+     "n": "Laranja",
+     "h": "#e8863f",
+     "v": 8950.0
     }
    ]
   },
@@ -5708,17 +5393,65 @@ const DADOS = {
     {
      "n": "Laranja",
      "h": "#e8863f",
+     "v": 6549.99
+    },
+    {
+     "n": "Azul",
+     "h": "#2c4f8c",
+     "v": 6749.99
+    },
+    {
+     "n": "Silver",
+     "h": "#e3e4e6",
+     "v": 6849.99
+    }
+   ]
+  },
+  {
+   "n": "iPhone 17 Pro 256GB",
+   "f": "Revel",
+   "l": "Nova Iguaçu — RJ",
+   "c": "iPhone",
+   "t": "Lacrado",
+   "cs": [
+    {
+     "n": "Laranja",
+     "h": "#e8863f",
      "v": 6599.99
     },
     {
      "n": "Azul",
      "h": "#2c4f8c",
-     "v": 6899.99
+     "v": 6749.99
+    },
+    {
+     "n": "Branco",
+     "h": "#f5f5f0",
+     "v": 6849.99
+    }
+   ]
+  },
+  {
+   "n": "iPhone 17 Pro 256GB",
+   "f": "Cristiano",
+   "l": "Méier — RJ",
+   "c": "iPhone",
+   "t": "Lacrado",
+   "cs": [
+    {
+     "n": "Laranja",
+     "h": "#e8863f",
+     "v": 6600.0
+    },
+    {
+     "n": "Azul",
+     "h": "#2c4f8c",
+     "v": 6750.0
     },
     {
      "n": "Silver",
      "h": "#e3e4e6",
-     "v": 6999.99
+     "v": 6850.0
     }
    ]
   },
@@ -5730,14 +5463,19 @@ const DADOS = {
    "t": "Lacrado",
    "cs": [
     {
+     "n": "Silver",
+     "h": "#e3e4e6",
+     "v": 6800.0
+    },
+    {
+     "n": "Azul",
+     "h": "#2c4f8c",
+     "v": 6700.0
+    },
+    {
      "n": "Laranja",
      "h": "#e8863f",
      "v": 6650.0
-    },
-    {
-     "n": "Silver",
-     "h": "#e3e4e6",
-     "v": 6900.0
     }
    ]
   },
@@ -5749,28 +5487,28 @@ const DADOS = {
    "t": "Lacrado",
    "cs": [
     {
-     "n": "Orange",
-     "h": "#e8863f",
-     "v": 6750.0
-    },
-    {
      "n": "Blue",
      "h": "#2c4f8c",
-     "v": 6850.0
+     "v": 6775.0
+    },
+    {
+     "n": "Orange",
+     "h": "#e8863f",
+     "v": 6775.0
     },
     {
      "n": "Silver",
      "h": "#e3e4e6",
-     "v": 6850.0
-    },
-    {
-     "n": "Orange Anatel",
-     "h": "#e8863f",
-     "v": 7200.0
+     "v": 6775.0
     },
     {
      "n": "Blue Anatel",
      "h": "#2c4f8c",
+     "v": 7200.0
+    },
+    {
+     "n": "Orange Anatel",
+     "h": "#e8863f",
      "v": 7200.0
     }
    ]
@@ -5790,7 +5528,7 @@ const DADOS = {
     {
      "n": "Azul",
      "h": "#2c4f8c",
-     "v": 7000.0
+     "v": 6999.0
     },
     {
      "n": "Silver",
@@ -5812,14 +5550,14 @@ const DADOS = {
      "v": 6999.0
     },
     {
-     "n": "Azul",
-     "h": "#2c4f8c",
-     "v": 7100.0
-    },
-    {
      "n": "Silver",
      "h": "#e3e4e6",
-     "v": 7299.0
+     "v": 7199.0
+    },
+    {
+     "n": "Azul",
+     "h": "#2c4f8c",
+     "v": 6999.0
     }
    ]
   },
@@ -5833,17 +5571,17 @@ const DADOS = {
     {
      "n": "Laranja",
      "h": "#e8863f",
-     "v": 8249.99
+     "v": 8199.99
     },
     {
      "n": "Azul",
      "h": "#2c4f8c",
-     "v": 8299.99
+     "v": 8249.99
     },
     {
      "n": "Silver",
      "h": "#e3e4e6",
-     "v": 8449.99
+     "v": 8349.99
     }
    ]
   },
@@ -5857,12 +5595,36 @@ const DADOS = {
     {
      "n": "Laranja",
      "h": "#e8863f",
-     "v": 8399.0
+     "v": 8350.0
     },
     {
      "n": "Azul",
      "h": "#2c4f8c",
-     "v": 8499.0
+     "v": 8399.0
+    },
+    {
+     "n": "Silver",
+     "h": "#e3e4e6",
+     "v": 8450.0
+    }
+   ]
+  },
+  {
+   "n": "iPhone 17 Pro 512GB",
+   "f": "Cristiano",
+   "l": "Méier — RJ",
+   "c": "iPhone",
+   "t": "Lacrado",
+   "cs": [
+    {
+     "n": "Azul",
+     "h": "#2c4f8c",
+     "v": 8350.0
+    },
+    {
+     "n": "Silver",
+     "h": "#e3e4e6",
+     "v": 8350.0
     }
    ]
   },
@@ -5876,17 +5638,17 @@ const DADOS = {
     {
      "n": "Laranja",
      "h": "#e8863f",
-     "v": 8450.0
-    },
-    {
-     "n": "Silver",
-     "h": "#e3e4e6",
-     "v": 8550.0
+     "v": 9000.0
     },
     {
      "n": "Azul",
      "h": "#2c4f8c",
-     "v": 8550.0
+     "v": 9000.0
+    },
+    {
+     "n": "Silver",
+     "h": "#e3e4e6",
+     "v": 9200.0
     }
    ]
   },
@@ -5900,7 +5662,31 @@ const DADOS = {
     {
      "n": "Silver",
      "h": "#e3e4e6",
-     "v": 10699.99
+     "v": 10749.99
+    },
+    {
+     "n": "Azul",
+     "h": "#2c4f8c",
+     "v": 10599.99
+    }
+   ]
+  },
+  {
+   "n": "iPhone 17 Pro Max 1TB",
+   "f": "Cristiano",
+   "l": "Méier — RJ",
+   "c": "iPhone",
+   "t": "Lacrado",
+   "cs": [
+    {
+     "n": "Silver",
+     "h": "#e3e4e6",
+     "v": 10600.0
+    },
+    {
+     "n": "Azul",
+     "h": "#2c4f8c",
+     "v": 10600.0
     }
    ]
   },
@@ -5925,7 +5711,55 @@ const DADOS = {
   },
   {
    "n": "iPhone 17 Pro Max 256GB",
-   "f": "M Apple",
+   "f": "Revel",
+   "l": "Nova Iguaçu — RJ",
+   "c": "iPhone",
+   "t": "Lacrado",
+   "cs": [
+    {
+     "n": "Laranja",
+     "h": "#e8863f",
+     "v": 6849.99
+    },
+    {
+     "n": "Azul",
+     "h": "#2c4f8c",
+     "v": 7000.0
+    },
+    {
+     "n": "Branco",
+     "h": "#f5f5f0",
+     "v": 7099.99
+    }
+   ]
+  },
+  {
+   "n": "iPhone 17 Pro Max 256GB",
+   "f": "Cristiano",
+   "l": "Méier — RJ",
+   "c": "iPhone",
+   "t": "Lacrado",
+   "cs": [
+    {
+     "n": "Laranja",
+     "h": "#e8863f",
+     "v": 6850.0
+    },
+    {
+     "n": "Azul",
+     "h": "#2c4f8c",
+     "v": 7000.0
+    },
+    {
+     "n": "Silver",
+     "h": "#e3e4e6",
+     "v": 7100.0
+    }
+   ]
+  },
+  {
+   "n": "iPhone 17 Pro Max 256GB",
+   "f": "MP Imports",
    "l": "Campo Grande — RJ",
    "c": "iPhone",
    "t": "Lacrado",
@@ -5933,7 +5767,17 @@ const DADOS = {
     {
      "n": "Laranja",
      "h": "#e8863f",
-     "v": 6950.0
+     "v": 6899.99
+    },
+    {
+     "n": "Azul",
+     "h": "#2c4f8c",
+     "v": 7049.99
+    },
+    {
+     "n": "Silver",
+     "h": "#e3e4e6",
+     "v": 7149.99
     }
    ]
   },
@@ -5945,62 +5789,19 @@ const DADOS = {
    "t": "Lacrado",
    "cs": [
     {
-     "n": "Orange",
-     "h": "#e8863f",
-     "v": 6950.0
-    },
-    {
      "n": "Blue",
      "h": "#2c4f8c",
      "v": 7000.0
     },
     {
-     "n": "Silver",
-     "h": "#e3e4e6",
-     "v": 7250.0
-    }
-   ]
-  },
-  {
-   "n": "iPhone 17 Pro Max 256GB",
-   "f": "MP Imports",
-   "l": "Campo Grande — RJ",
-   "c": "iPhone",
-   "t": "Lacrado",
-   "cs": [
-    {
-     "n": "Laranja",
+     "n": "Orange",
      "h": "#e8863f",
-     "v": 7049.99
-    },
-    {
-     "n": "Azul",
-     "h": "#2c4f8c",
-     "v": 7149.99
+     "v": 6950.0
     },
     {
      "n": "Silver",
      "h": "#e3e4e6",
-     "v": 7349.99
-    }
-   ]
-  },
-  {
-   "n": "iPhone 17 Pro Max 256GB",
-   "f": "LBR Importados",
-   "l": "Centro — Niterói/RJ",
-   "c": "iPhone",
-   "t": "Lacrado",
-   "cs": [
-    {
-     "n": "Azul",
-     "h": "#2c4f8c",
-     "v": 7050.0
-    },
-    {
-     "n": "Prateado",
-     "h": "#e3e4e6",
-     "v": 7290.0
+     "v": 7200.0
     }
    ]
   },
@@ -6012,19 +5813,14 @@ const DADOS = {
    "t": "Lacrado",
    "cs": [
     {
-     "n": "Laranja",
-     "h": "#e8863f",
+     "n": "Azul",
+     "h": "#2c4f8c",
      "v": 7050.0
     },
     {
-     "n": "Azul",
-     "h": "#2c4f8c",
-     "v": 7100.0
-    },
-    {
-     "n": "Silver",
-     "h": "#e3e4e6",
-     "v": 7399.0
+     "n": "Laranja",
+     "h": "#e8863f",
+     "v": 6999.0
     }
    ]
   },
@@ -6043,12 +5839,31 @@ const DADOS = {
     {
      "n": "Azul",
      "h": "#2c4f8c",
-     "v": 7130.0
+     "v": 7100.0
     },
     {
      "n": "Silver",
      "h": "#e3e4e6",
-     "v": 7320.0
+     "v": 7200.0
+    }
+   ]
+  },
+  {
+   "n": "iPhone 17 Pro Max 256GB",
+   "f": "LBR Importados",
+   "l": "Centro — Niterói/RJ",
+   "c": "iPhone",
+   "t": "Lacrado",
+   "cs": [
+    {
+     "n": "Laranja",
+     "h": "#e8863f",
+     "v": 7150.0
+    },
+    {
+     "n": "Prateado",
+     "h": "#e3e4e6",
+     "v": 7400.0
     }
    ]
   },
@@ -6065,13 +5880,13 @@ const DADOS = {
      "v": 7250.0
     },
     {
-     "n": "Silver",
-     "h": "#e3e4e6",
+     "n": "Azul",
+     "h": "#2c4f8c",
      "v": 7500.0
     },
     {
-     "n": "Azul",
-     "h": "#2c4f8c",
+     "n": "Silver",
+     "h": "#e3e4e6",
      "v": 7500.0
     }
    ]
@@ -6086,20 +5901,73 @@ const DADOS = {
   },
   {
    "n": "iPhone 17 Pro Max 256GB",
-   "f": "Revel",
-   "l": "Nova Iguaçu — RJ",
+   "f": "Chiq Cell",
+   "l": "Bangu — RJ",
    "c": "iPhone",
    "t": "Seminovo",
    "cs": [
     {
+     "n": "Branco",
+     "h": "#f5f5f0",
+     "v": 7200.0
+    },
+    {
      "n": "Laranja",
      "h": "#e8863f",
-     "v": 7049.99
+     "v": 6950.0
+    }
+   ]
+  },
+  {
+   "n": "iPhone 17 Pro Max 512GB",
+   "f": "Cristiano",
+   "l": "Méier — RJ",
+   "c": "iPhone",
+   "t": "Lacrado",
+   "cs": [
+    {
+     "n": "Laranja",
+     "h": "#e8863f",
+     "v": 8700.0
+    },
+    {
+     "n": "Azul",
+     "h": "#2c4f8c",
+     "v": 8800.0
     },
     {
      "n": "Silver",
      "h": "#e3e4e6",
-     "v": 7349.99
+     "v": 8900.0
+    }
+   ]
+  },
+  {
+   "n": "iPhone 17 Pro Max 512GB",
+   "f": "MP Imports",
+   "l": "Campo Grande — RJ",
+   "c": "iPhone",
+   "t": "Lacrado",
+   "cs": [
+    {
+     "n": "Silver Anatel",
+     "h": "#e3e4e6",
+     "v": 9299.99
+    },
+    {
+     "n": "Laranja",
+     "h": "#e8863f",
+     "v": 8749.99
+    },
+    {
+     "n": "Azul",
+     "h": "#2c4f8c",
+     "v": 8899.99
+    },
+    {
+     "n": "Silver",
+     "h": "#e3e4e6",
+     "v": 8949.99
     }
    ]
   },
@@ -6113,41 +5981,36 @@ const DADOS = {
     {
      "n": "Orange",
      "h": "#e8863f",
-     "v": 8800.0
-    },
-    {
-     "n": "Orange Anatel",
-     "h": "#e8863f",
-     "v": 9100.0
+     "v": 8750.0
     },
     {
      "n": "Blue",
      "h": "#2c4f8c",
+     "v": 9100.0
+    },
+    {
+     "n": "Silver",
+     "h": "#e3e4e6",
+     "v": 9150.0
+    },
+    {
+     "n": "Orange Anatel",
+     "h": "#e8863f",
      "v": 9100.0
     }
    ]
   },
   {
    "n": "iPhone 17 Pro Max 512GB",
-   "f": "MP Imports",
-   "l": "Campo Grande — RJ",
+   "f": "Júnior",
+   "l": "Recreio — RJ",
    "c": "iPhone",
    "t": "Lacrado",
    "cs": [
     {
      "n": "Laranja",
      "h": "#e8863f",
-     "v": 8899.99
-    },
-    {
-     "n": "Azul",
-     "h": "#2c4f8c",
-     "v": 8999.99
-    },
-    {
-     "n": "Silver",
-     "h": "#e3e4e6",
-     "v": 9099.99
+     "v": 8999.0
     }
    ]
   },
@@ -6177,30 +6040,35 @@ const DADOS = {
   },
   {
    "n": "iPhone 17 Pro Max 512GB",
-   "f": "Júnior",
-   "l": "Recreio — RJ",
-   "c": "iPhone",
-   "t": "Lacrado",
-   "cs": [
-    {
-     "n": "Laranja",
-     "h": "#e8863f",
-     "v": 8999.0
-    },
-    {
-     "n": "Azul",
-     "h": "#2c4f8c",
-     "v": 9100.0
-    }
-   ]
-  },
-  {
-   "n": "iPhone 17 Pro Max 512GB",
    "f": "Davi/Fábio",
    "l": "Bangu — RJ",
    "c": "iPhone",
    "t": "Seminovo",
    "v": 7490.0
+  },
+  {
+   "n": "iPhone 17e 256GB",
+   "f": "Cristiano",
+   "l": "Méier — RJ",
+   "c": "iPhone",
+   "t": "Lacrado",
+   "cs": [
+    {
+     "n": "Branco",
+     "h": "#f5f5f0",
+     "v": 3600.0
+    },
+    {
+     "n": "Rosa",
+     "h": "#f4c2c2",
+     "v": 3600.0
+    },
+    {
+     "n": "Preto",
+     "h": "#1c1c1e",
+     "v": 3650.0
+    }
+   ]
   },
   {
    "n": "iPhone 17e 256GB",
@@ -6210,18 +6078,13 @@ const DADOS = {
    "t": "Lacrado",
    "cs": [
     {
-     "n": "Preto",
-     "h": "#1c1c1e",
-     "v": 3599.99
+     "n": "Rosa",
+     "h": "#f4c2c2",
+     "v": 3649.99
     },
     {
      "n": "Branco",
      "h": "#f5f5f0",
-     "v": 3599.99
-    },
-    {
-     "n": "Rosa",
-     "h": "#f4c2c2",
      "v": 3649.99
     }
    ]
@@ -6233,11 +6096,6 @@ const DADOS = {
    "c": "iPhone",
    "t": "Lacrado",
    "cs": [
-    {
-     "n": "Preto",
-     "h": "#1c1c1e",
-     "v": 3650.0
-    },
     {
      "n": "Branco",
      "h": "#f5f5f0",
@@ -6255,7 +6113,7 @@ const DADOS = {
     {
      "n": "Branco",
      "h": "#f5f5f0",
-     "v": 3700.0
+     "v": 3650.0
     }
    ]
   },
